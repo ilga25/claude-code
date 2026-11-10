@@ -1,0 +1,8708 @@
+{
+ "source": "estimate",
+ "fps": 60,
+ "words": [
+  {
+   "text": "Si",
+   "startMs": 400,
+   "endMs": 576,
+   "escena": 1
+  },
+  {
+   "text": "cobras",
+   "startMs": 576,
+   "endMs": 928,
+   "escena": 1
+  },
+  {
+   "text": "el",
+   "startMs": 928,
+   "endMs": 1104,
+   "escena": 1
+  },
+  {
+   "text": "Seguro",
+   "startMs": 1104,
+   "endMs": 1631,
+   "escena": 1
+  },
+  {
+   "text": "Social,",
+   "startMs": 1631,
+   "endMs": 1983,
+   "escena": 1
+  },
+  {
+   "text": "en",
+   "startMs": 2143,
+   "endMs": 2319,
+   "escena": 1
+  },
+  {
+   "text": "enero",
+   "startMs": 2319,
+   "endMs": 2847,
+   "escena": 1
+  },
+  {
+   "text": "te",
+   "startMs": 2847,
+   "endMs": 3023,
+   "escena": 1
+  },
+  {
+   "text": "llega",
+   "startMs": 3023,
+   "endMs": 3375,
+   "escena": 1
+  },
+  {
+   "text": "un",
+   "startMs": 3375,
+   "endMs": 3551,
+   "escena": 1
+  },
+  {
+   "text": "aumento.",
+   "startMs": 3551,
+   "endMs": 4078,
+   "escena": 1
+  },
+  {
+   "text": "El",
+   "startMs": 4418,
+   "endMs": 4594,
+   "escena": 1
+  },
+  {
+   "text": "gobierno",
+   "startMs": 4594,
+   "endMs": 5122,
+   "escena": 1
+  },
+  {
+   "text": "ya",
+   "startMs": 5122,
+   "endMs": 5298,
+   "escena": 1
+  },
+  {
+   "text": "anunció",
+   "startMs": 5298,
+   "endMs": 5826,
+   "escena": 1
+  },
+  {
+   "text": "cuánto:",
+   "startMs": 5826,
+   "endMs": 6178,
+   "escena": 1
+  },
+  {
+   "text": "un",
+   "startMs": 6438,
+   "endMs": 6614,
+   "escena": 1
+  },
+  {
+   "text": "3,6 %.",
+   "startMs": 6614,
+   "endMs": 8549,
+   "escena": 1
+  },
+  {
+   "text": "Suena",
+   "startMs": 8889,
+   "endMs": 9240,
+   "escena": 1
+  },
+  {
+   "text": "bien,",
+   "startMs": 9240,
+   "endMs": 9416,
+   "escena": 1
+  },
+  {
+   "text": "¿verdad?",
+   "startMs": 9576,
+   "endMs": 9928,
+   "escena": 1
+  },
+  {
+   "text": "Pero",
+   "startMs": 10658,
+   "endMs": 11010,
+   "escena": 1
+  },
+  {
+   "text": "hay",
+   "startMs": 11010,
+   "endMs": 11186,
+   "escena": 1
+  },
+  {
+   "text": "un",
+   "startMs": 11186,
+   "endMs": 11362,
+   "escena": 1
+  },
+  {
+   "text": "detalle",
+   "startMs": 11362,
+   "endMs": 11890,
+   "escena": 1
+  },
+  {
+   "text": "que",
+   "startMs": 11890,
+   "endMs": 12066,
+   "escena": 1
+  },
+  {
+   "text": "casi",
+   "startMs": 12066,
+   "endMs": 12417,
+   "escena": 1
+  },
+  {
+   "text": "nadie",
+   "startMs": 12417,
+   "endMs": 12769,
+   "escena": 1
+  },
+  {
+   "text": "te",
+   "startMs": 12769,
+   "endMs": 12945,
+   "escena": 1
+  },
+  {
+   "text": "explica:",
+   "startMs": 12945,
+   "endMs": 13473,
+   "escena": 1
+  },
+  {
+   "text": "antes",
+   "startMs": 13733,
+   "endMs": 14085,
+   "escena": 1
+  },
+  {
+   "text": "de",
+   "startMs": 14085,
+   "endMs": 14261,
+   "escena": 1
+  },
+  {
+   "text": "que",
+   "startMs": 14261,
+   "endMs": 14437,
+   "escena": 1
+  },
+  {
+   "text": "ese",
+   "startMs": 14437,
+   "endMs": 14788,
+   "escena": 1
+  },
+  {
+   "text": "dinero",
+   "startMs": 14788,
+   "endMs": 15316,
+   "escena": 1
+  },
+  {
+   "text": "llegue",
+   "startMs": 15316,
+   "endMs": 15668,
+   "escena": 1
+  },
+  {
+   "text": "a",
+   "startMs": 15668,
+   "endMs": 15844,
+   "escena": 1
+  },
+  {
+   "text": "tu",
+   "startMs": 15844,
+   "endMs": 16020,
+   "escena": 1
+  },
+  {
+   "text": "cuenta,",
+   "startMs": 16020,
+   "endMs": 16372,
+   "escena": 1
+  },
+  {
+   "text": "Medicare",
+   "startMs": 16532,
+   "endMs": 17235,
+   "escena": 1
+  },
+  {
+   "text": "se",
+   "startMs": 17235,
+   "endMs": 17411,
+   "escena": 1
+  },
+  {
+   "text": "lleva",
+   "startMs": 17411,
+   "endMs": 17763,
+   "escena": 1
+  },
+  {
+   "text": "su",
+   "startMs": 17763,
+   "endMs": 17939,
+   "escena": 1
+  },
+  {
+   "text": "parte.",
+   "startMs": 17939,
+   "endMs": 18291,
+   "escena": 1
+  },
+  {
+   "text": "Y",
+   "startMs": 18631,
+   "endMs": 18807,
+   "escena": 1
+  },
+  {
+   "text": "este",
+   "startMs": 18807,
+   "endMs": 19159,
+   "escena": 1
+  },
+  {
+   "text": "año",
+   "startMs": 19159,
+   "endMs": 19511,
+   "escena": 1
+  },
+  {
+   "text": "hay",
+   "startMs": 19511,
+   "endMs": 19686,
+   "escena": 1
+  },
+  {
+   "text": "otros",
+   "startMs": 19686,
+   "endMs": 20038,
+   "escena": 1
+  },
+  {
+   "text": "cambios",
+   "startMs": 20038,
+   "endMs": 20390,
+   "escena": 1
+  },
+  {
+   "text": "que",
+   "startMs": 20390,
+   "endMs": 20566,
+   "escena": 1
+  },
+  {
+   "text": "te",
+   "startMs": 20566,
+   "endMs": 20742,
+   "escena": 1
+  },
+  {
+   "text": "pueden",
+   "startMs": 20742,
+   "endMs": 21094,
+   "escena": 1
+  },
+  {
+   "text": "costar",
+   "startMs": 21094,
+   "endMs": 21446,
+   "escena": 1
+  },
+  {
+   "text": "dinero",
+   "startMs": 21446,
+   "endMs": 21973,
+   "escena": 1
+  },
+  {
+   "text": "si",
+   "startMs": 21973,
+   "endMs": 22149,
+   "escena": 1
+  },
+  {
+   "text": "no",
+   "startMs": 22149,
+   "endMs": 22325,
+   "escena": 1
+  },
+  {
+   "text": "haces",
+   "startMs": 22325,
+   "endMs": 22677,
+   "escena": 1
+  },
+  {
+   "text": "nada",
+   "startMs": 22677,
+   "endMs": 23029,
+   "escena": 1
+  },
+  {
+   "text": "antes",
+   "startMs": 23029,
+   "endMs": 23381,
+   "escena": 1
+  },
+  {
+   "text": "del",
+   "startMs": 23381,
+   "endMs": 23557,
+   "escena": 1
+  },
+  {
+   "text": "7",
+   "startMs": 23557,
+   "endMs": 24084,
+   "escena": 1
+  },
+  {
+   "text": "de",
+   "startMs": 24084,
+   "endMs": 24260,
+   "escena": 1
+  },
+  {
+   "text": "diciembre.",
+   "startMs": 24260,
+   "endMs": 24788,
+   "escena": 1
+  },
+  {
+   "text": "En",
+   "startMs": 25478,
+   "endMs": 25654,
+   "escena": 1
+  },
+  {
+   "text": "este",
+   "startMs": 25654,
+   "endMs": 26006,
+   "escena": 1
+  },
+  {
+   "text": "vídeo",
+   "startMs": 26006,
+   "endMs": 26358,
+   "escena": 1
+  },
+  {
+   "text": "vas",
+   "startMs": 26358,
+   "endMs": 26534,
+   "escena": 1
+  },
+  {
+   "text": "a",
+   "startMs": 26534,
+   "endMs": 26710,
+   "escena": 1
+  },
+  {
+   "text": "ver,",
+   "startMs": 26710,
+   "endMs": 26886,
+   "escena": 1
+  },
+  {
+   "text": "con",
+   "startMs": 27046,
+   "endMs": 27221,
+   "escena": 1
+  },
+  {
+   "text": "números",
+   "startMs": 27221,
+   "endMs": 27749,
+   "escena": 1
+  },
+  {
+   "text": "reales,",
+   "startMs": 27749,
+   "endMs": 28101,
+   "escena": 1
+  },
+  {
+   "text": "cuánto",
+   "startMs": 28261,
+   "endMs": 28613,
+   "escena": 1
+  },
+  {
+   "text": "vas",
+   "startMs": 28613,
+   "endMs": 28789,
+   "escena": 1
+  },
+  {
+   "text": "a",
+   "startMs": 28789,
+   "endMs": 28965,
+   "escena": 1
+  },
+  {
+   "text": "cobrar",
+   "startMs": 28965,
+   "endMs": 29317,
+   "escena": 1
+  },
+  {
+   "text": "de",
+   "startMs": 29317,
+   "endMs": 29492,
+   "escena": 1
+  },
+  {
+   "text": "verdad",
+   "startMs": 29492,
+   "endMs": 29844,
+   "escena": 1
+  },
+  {
+   "text": "en",
+   "startMs": 29844,
+   "endMs": 30020,
+   "escena": 1
+  },
+  {
+   "text": "2027.",
+   "startMs": 30020,
+   "endMs": 31604,
+   "escena": 1
+  },
+  {
+   "text": "Quédate",
+   "startMs": 31944,
+   "endMs": 32471,
+   "escena": 1
+  },
+  {
+   "text": "hasta",
+   "startMs": 32471,
+   "endMs": 32823,
+   "escena": 1
+  },
+  {
+   "text": "el",
+   "startMs": 32823,
+   "endMs": 32999,
+   "escena": 1
+  },
+  {
+   "text": "final,",
+   "startMs": 32999,
+   "endMs": 33351,
+   "escena": 1
+  },
+  {
+   "text": "porque",
+   "startMs": 33511,
+   "endMs": 33863,
+   "escena": 1
+  },
+  {
+   "text": "te",
+   "startMs": 33863,
+   "endMs": 34039,
+   "escena": 1
+  },
+  {
+   "text": "doy",
+   "startMs": 34039,
+   "endMs": 34215,
+   "escena": 1
+  },
+  {
+   "text": "una",
+   "startMs": 34215,
+   "endMs": 34566,
+   "escena": 1
+  },
+  {
+   "text": "lista",
+   "startMs": 34566,
+   "endMs": 34918,
+   "escena": 1
+  },
+  {
+   "text": "de",
+   "startMs": 34918,
+   "endMs": 35094,
+   "escena": 1
+  },
+  {
+   "text": "fechas",
+   "startMs": 35094,
+   "endMs": 35446,
+   "escena": 1
+  },
+  {
+   "text": "que",
+   "startMs": 35446,
+   "endMs": 35622,
+   "escena": 1
+  },
+  {
+   "text": "no",
+   "startMs": 35622,
+   "endMs": 35798,
+   "escena": 1
+  },
+  {
+   "text": "te",
+   "startMs": 35798,
+   "endMs": 35974,
+   "escena": 1
+  },
+  {
+   "text": "puedes",
+   "startMs": 35974,
+   "endMs": 36326,
+   "escena": 1
+  },
+  {
+   "text": "saltar.",
+   "startMs": 36326,
+   "endMs": 36677,
+   "escena": 1
+  },
+  {
+   "text": "Bienvenido",
+   "startMs": 37517,
+   "endMs": 38221,
+   "escena": 2
+  },
+  {
+   "text": "a",
+   "startMs": 38221,
+   "endMs": 38397,
+   "escena": 2
+  },
+  {
+   "text": "Dinero",
+   "startMs": 38397,
+   "endMs": 38925,
+   "escena": 2
+  },
+  {
+   "text": "Claro",
+   "startMs": 38925,
+   "endMs": 39277,
+   "escena": 2
+  },
+  {
+   "text": "USA.",
+   "startMs": 39277,
+   "endMs": 39628,
+   "escena": 2
+  },
+  {
+   "text": "Aquí",
+   "startMs": 39968,
+   "endMs": 40320,
+   "escena": 2
+  },
+  {
+   "text": "explicamos",
+   "startMs": 40320,
+   "endMs": 41024,
+   "escena": 2
+  },
+  {
+   "text": "el",
+   "startMs": 41024,
+   "endMs": 41200,
+   "escena": 2
+  },
+  {
+   "text": "Seguro",
+   "startMs": 41200,
+   "endMs": 41728,
+   "escena": 2
+  },
+  {
+   "text": "Social,",
+   "startMs": 41728,
+   "endMs": 42080,
+   "escena": 2
+  },
+  {
+   "text": "Medicare",
+   "startMs": 42240,
+   "endMs": 42943,
+   "escena": 2
+  },
+  {
+   "text": "y",
+   "startMs": 42943,
+   "endMs": 43119,
+   "escena": 2
+  },
+  {
+   "text": "tu",
+   "startMs": 43119,
+   "endMs": 43295,
+   "escena": 2
+  },
+  {
+   "text": "dinero",
+   "startMs": 43295,
+   "endMs": 43823,
+   "escena": 2
+  },
+  {
+   "text": "en",
+   "startMs": 43823,
+   "endMs": 43999,
+   "escena": 2
+  },
+  {
+   "text": "Estados",
+   "startMs": 43999,
+   "endMs": 44527,
+   "escena": 2
+  },
+  {
+   "text": "Unidos",
+   "startMs": 44527,
+   "endMs": 45054,
+   "escena": 2
+  },
+  {
+   "text": "en",
+   "startMs": 45054,
+   "endMs": 45230,
+   "escena": 2
+  },
+  {
+   "text": "español,",
+   "startMs": 45230,
+   "endMs": 45758,
+   "escena": 2
+  },
+  {
+   "text": "claro",
+   "startMs": 45918,
+   "endMs": 46270,
+   "escena": 2
+  },
+  {
+   "text": "y",
+   "startMs": 46270,
+   "endMs": 46446,
+   "escena": 2
+  },
+  {
+   "text": "sin",
+   "startMs": 46446,
+   "endMs": 46622,
+   "escena": 2
+  },
+  {
+   "text": "rodeos.",
+   "startMs": 46622,
+   "endMs": 46973,
+   "escena": 2
+  },
+  {
+   "text": "Y",
+   "startMs": 47663,
+   "endMs": 47839,
+   "escena": 2
+  },
+  {
+   "text": "para",
+   "startMs": 47839,
+   "endMs": 48191,
+   "escena": 2
+  },
+  {
+   "text": "que",
+   "startMs": 48191,
+   "endMs": 48367,
+   "escena": 2
+  },
+  {
+   "text": "todo",
+   "startMs": 48367,
+   "endMs": 48719,
+   "escena": 2
+  },
+  {
+   "text": "se",
+   "startMs": 48719,
+   "endMs": 48895,
+   "escena": 2
+  },
+  {
+   "text": "entienda",
+   "startMs": 48895,
+   "endMs": 49423,
+   "escena": 2
+  },
+  {
+   "text": "mejor,",
+   "startMs": 49423,
+   "endMs": 49775,
+   "escena": 2
+  },
+  {
+   "text": "hoy",
+   "startMs": 49935,
+   "endMs": 50110,
+   "escena": 2
+  },
+  {
+   "text": "nos",
+   "startMs": 50110,
+   "endMs": 50286,
+   "escena": 2
+  },
+  {
+   "text": "acompañan",
+   "startMs": 50286,
+   "endMs": 50990,
+   "escena": 2
+  },
+  {
+   "text": "Rosa",
+   "startMs": 50990,
+   "endMs": 51342,
+   "escena": 2
+  },
+  {
+   "text": "y",
+   "startMs": 51342,
+   "endMs": 51518,
+   "escena": 2
+  },
+  {
+   "text": "Miguel,",
+   "startMs": 51518,
+   "endMs": 51870,
+   "escena": 2
+  },
+  {
+   "text": "un",
+   "startMs": 52030,
+   "endMs": 52206,
+   "escena": 2
+  },
+  {
+   "text": "matrimonio",
+   "startMs": 52206,
+   "endMs": 52909,
+   "escena": 2
+  },
+  {
+   "text": "jubilado",
+   "startMs": 52909,
+   "endMs": 53613,
+   "escena": 2
+  },
+  {
+   "text": "de",
+   "startMs": 53613,
+   "endMs": 53789,
+   "escena": 2
+  },
+  {
+   "text": "Texas.",
+   "startMs": 53789,
+   "endMs": 54141,
+   "escena": 2
+  },
+  {
+   "text": "Vamos",
+   "startMs": 54481,
+   "endMs": 54833,
+   "escena": 2
+  },
+  {
+   "text": "a",
+   "startMs": 54833,
+   "endMs": 55008,
+   "escena": 2
+  },
+  {
+   "text": "hacer",
+   "startMs": 55008,
+   "endMs": 55360,
+   "escena": 2
+  },
+  {
+   "text": "sus",
+   "startMs": 55360,
+   "endMs": 55536,
+   "escena": 2
+  },
+  {
+   "text": "cuentas",
+   "startMs": 55536,
+   "endMs": 55888,
+   "escena": 2
+  },
+  {
+   "text": "paso",
+   "startMs": 55888,
+   "endMs": 56240,
+   "escena": 2
+  },
+  {
+   "text": "a",
+   "startMs": 56240,
+   "endMs": 56416,
+   "escena": 2
+  },
+  {
+   "text": "paso.",
+   "startMs": 56416,
+   "endMs": 56768,
+   "escena": 2
+  },
+  {
+   "text": "Primero,",
+   "startMs": 57608,
+   "endMs": 58135,
+   "escena": 3
+  },
+  {
+   "text": "lo",
+   "startMs": 58295,
+   "endMs": 58471,
+   "escena": 3
+  },
+  {
+   "text": "básico.",
+   "startMs": 58471,
+   "endMs": 58999,
+   "escena": 3
+  },
+  {
+   "text": "Ese",
+   "startMs": 59339,
+   "endMs": 59691,
+   "escena": 3
+  },
+  {
+   "text": "aumento",
+   "startMs": 59691,
+   "endMs": 60219,
+   "escena": 3
+  },
+  {
+   "text": "se",
+   "startMs": 60219,
+   "endMs": 60395,
+   "escena": 3
+  },
+  {
+   "text": "llama",
+   "startMs": 60395,
+   "endMs": 60746,
+   "escena": 3
+  },
+  {
+   "text": "COLA,",
+   "startMs": 60746,
+   "endMs": 61098,
+   "escena": 3
+  },
+  {
+   "text": "que",
+   "startMs": 61258,
+   "endMs": 61434,
+   "escena": 3
+  },
+  {
+   "text": "viene",
+   "startMs": 61434,
+   "endMs": 61786,
+   "escena": 3
+  },
+  {
+   "text": "del",
+   "startMs": 61786,
+   "endMs": 61962,
+   "escena": 3
+  },
+  {
+   "text": "inglés",
+   "startMs": 61962,
+   "endMs": 62314,
+   "escena": 3
+  },
+  {
+   "text": "«cost-of-living",
+   "startMs": 62314,
+   "endMs": 63017,
+   "escena": 3
+  },
+  {
+   "text": "adjustment»:",
+   "startMs": 63017,
+   "endMs": 63545,
+   "escena": 3
+  },
+  {
+   "text": "ajuste",
+   "startMs": 63805,
+   "endMs": 64333,
+   "escena": 3
+  },
+  {
+   "text": "por",
+   "startMs": 64333,
+   "endMs": 64509,
+   "escena": 3
+  },
+  {
+   "text": "costo",
+   "startMs": 64509,
+   "endMs": 64861,
+   "escena": 3
+  },
+  {
+   "text": "de",
+   "startMs": 64861,
+   "endMs": 65037,
+   "escena": 3
+  },
+  {
+   "text": "vida.",
+   "startMs": 65037,
+   "endMs": 65389,
+   "escena": 3
+  },
+  {
+   "text": "Cada",
+   "startMs": 66079,
+   "endMs": 66430,
+   "escena": 3
+  },
+  {
+   "text": "año,",
+   "startMs": 66430,
+   "endMs": 66782,
+   "escena": 3
+  },
+  {
+   "text": "el",
+   "startMs": 66942,
+   "endMs": 67118,
+   "escena": 3
+  },
+  {
+   "text": "Seguro",
+   "startMs": 67118,
+   "endMs": 67646,
+   "escena": 3
+  },
+  {
+   "text": "Social",
+   "startMs": 67646,
+   "endMs": 67998,
+   "escena": 3
+  },
+  {
+   "text": "sube",
+   "startMs": 67998,
+   "endMs": 68350,
+   "escena": 3
+  },
+  {
+   "text": "los",
+   "startMs": 68350,
+   "endMs": 68525,
+   "escena": 3
+  },
+  {
+   "text": "pagos",
+   "startMs": 68525,
+   "endMs": 68877,
+   "escena": 3
+  },
+  {
+   "text": "para",
+   "startMs": 68877,
+   "endMs": 69229,
+   "escena": 3
+  },
+  {
+   "text": "que",
+   "startMs": 69229,
+   "endMs": 69405,
+   "escena": 3
+  },
+  {
+   "text": "los",
+   "startMs": 69405,
+   "endMs": 69581,
+   "escena": 3
+  },
+  {
+   "text": "precios",
+   "startMs": 69581,
+   "endMs": 69933,
+   "escena": 3
+  },
+  {
+   "text": "no",
+   "startMs": 69933,
+   "endMs": 70109,
+   "escena": 3
+  },
+  {
+   "text": "se",
+   "startMs": 70109,
+   "endMs": 70285,
+   "escena": 3
+  },
+  {
+   "text": "coman",
+   "startMs": 70285,
+   "endMs": 70637,
+   "escena": 3
+  },
+  {
+   "text": "tu",
+   "startMs": 70637,
+   "endMs": 70812,
+   "escena": 3
+  },
+  {
+   "text": "dinero.",
+   "startMs": 70812,
+   "endMs": 71340,
+   "escena": 3
+  },
+  {
+   "text": "¿Cómo",
+   "startMs": 71680,
+   "endMs": 72032,
+   "escena": 3
+  },
+  {
+   "text": "lo",
+   "startMs": 72032,
+   "endMs": 72208,
+   "escena": 3
+  },
+  {
+   "text": "calcula?",
+   "startMs": 72208,
+   "endMs": 72736,
+   "escena": 3
+  },
+  {
+   "text": "Mira",
+   "startMs": 73116,
+   "endMs": 73468,
+   "escena": 3
+  },
+  {
+   "text": "la",
+   "startMs": 73468,
+   "endMs": 73643,
+   "escena": 3
+  },
+  {
+   "text": "inflación",
+   "startMs": 73643,
+   "endMs": 74171,
+   "escena": 3
+  },
+  {
+   "text": "de",
+   "startMs": 74171,
+   "endMs": 74347,
+   "escena": 3
+  },
+  {
+   "text": "julio,",
+   "startMs": 74347,
+   "endMs": 74699,
+   "escena": 3
+  },
+  {
+   "text": "agosto",
+   "startMs": 74859,
+   "endMs": 75387,
+   "escena": 3
+  },
+  {
+   "text": "y",
+   "startMs": 75387,
+   "endMs": 75563,
+   "escena": 3
+  },
+  {
+   "text": "septiembre",
+   "startMs": 75563,
+   "endMs": 76090,
+   "escena": 3
+  },
+  {
+   "text": "y",
+   "startMs": 76090,
+   "endMs": 76266,
+   "escena": 3
+  },
+  {
+   "text": "la",
+   "startMs": 76266,
+   "endMs": 76442,
+   "escena": 3
+  },
+  {
+   "text": "compara",
+   "startMs": 76442,
+   "endMs": 76970,
+   "escena": 3
+  },
+  {
+   "text": "con",
+   "startMs": 76970,
+   "endMs": 77146,
+   "escena": 3
+  },
+  {
+   "text": "los",
+   "startMs": 77146,
+   "endMs": 77322,
+   "escena": 3
+  },
+  {
+   "text": "mismos",
+   "startMs": 77322,
+   "endMs": 77674,
+   "escena": 3
+  },
+  {
+   "text": "meses",
+   "startMs": 77674,
+   "endMs": 78026,
+   "escena": 3
+  },
+  {
+   "text": "del",
+   "startMs": 78026,
+   "endMs": 78201,
+   "escena": 3
+  },
+  {
+   "text": "año",
+   "startMs": 78201,
+   "endMs": 78553,
+   "escena": 3
+  },
+  {
+   "text": "anterior.",
+   "startMs": 78553,
+   "endMs": 79081,
+   "escena": 3
+  },
+  {
+   "text": "Si",
+   "startMs": 79421,
+   "endMs": 79597,
+   "escena": 3
+  },
+  {
+   "text": "los",
+   "startMs": 79597,
+   "endMs": 79773,
+   "escena": 3
+  },
+  {
+   "text": "precios",
+   "startMs": 79773,
+   "endMs": 80125,
+   "escena": 3
+  },
+  {
+   "text": "subieron,",
+   "startMs": 80125,
+   "endMs": 80653,
+   "escena": 3
+  },
+  {
+   "text": "tu",
+   "startMs": 80813,
+   "endMs": 80988,
+   "escena": 3
+  },
+  {
+   "text": "cheque",
+   "startMs": 80988,
+   "endMs": 81340,
+   "escena": 3
+  },
+  {
+   "text": "también",
+   "startMs": 81340,
+   "endMs": 81692,
+   "escena": 3
+  },
+  {
+   "text": "sube.",
+   "startMs": 81692,
+   "endMs": 82044,
+   "escena": 3
+  },
+  {
+   "text": "Piénsalo",
+   "startMs": 82734,
+   "endMs": 83262,
+   "escena": 3
+  },
+  {
+   "text": "así:",
+   "startMs": 83262,
+   "endMs": 83614,
+   "escena": 3
+  },
+  {
+   "text": "si",
+   "startMs": 83874,
+   "endMs": 84049,
+   "escena": 3
+  },
+  {
+   "text": "el",
+   "startMs": 84049,
+   "endMs": 84225,
+   "escena": 3
+  },
+  {
+   "text": "año",
+   "startMs": 84225,
+   "endMs": 84577,
+   "escena": 3
+  },
+  {
+   "text": "pasado",
+   "startMs": 84577,
+   "endMs": 85105,
+   "escena": 3
+  },
+  {
+   "text": "tu",
+   "startMs": 85105,
+   "endMs": 85281,
+   "escena": 3
+  },
+  {
+   "text": "compra",
+   "startMs": 85281,
+   "endMs": 85633,
+   "escena": 3
+  },
+  {
+   "text": "del",
+   "startMs": 85633,
+   "endMs": 85809,
+   "escena": 3
+  },
+  {
+   "text": "supermercado",
+   "startMs": 85809,
+   "endMs": 86688,
+   "escena": 3
+  },
+  {
+   "text": "costaba",
+   "startMs": 86688,
+   "endMs": 87216,
+   "escena": 3
+  },
+  {
+   "text": "cien",
+   "startMs": 87216,
+   "endMs": 87392,
+   "escena": 3
+  },
+  {
+   "text": "dólares",
+   "startMs": 87392,
+   "endMs": 87920,
+   "escena": 3
+  },
+  {
+   "text": "y",
+   "startMs": 87920,
+   "endMs": 88096,
+   "escena": 3
+  },
+  {
+   "text": "ahora",
+   "startMs": 88096,
+   "endMs": 88623,
+   "escena": 3
+  },
+  {
+   "text": "cuesta",
+   "startMs": 88623,
+   "endMs": 88975,
+   "escena": 3
+  },
+  {
+   "text": "casi",
+   "startMs": 88975,
+   "endMs": 89327,
+   "escena": 3
+  },
+  {
+   "text": "ciento",
+   "startMs": 89327,
+   "endMs": 89679,
+   "escena": 3
+  },
+  {
+   "text": "cuatro,",
+   "startMs": 89679,
+   "endMs": 90031,
+   "escena": 3
+  },
+  {
+   "text": "el",
+   "startMs": 90191,
+   "endMs": 90367,
+   "escena": 3
+  },
+  {
+   "text": "COLA",
+   "startMs": 90367,
+   "endMs": 90719,
+   "escena": 3
+  },
+  {
+   "text": "intenta",
+   "startMs": 90719,
+   "endMs": 91246,
+   "escena": 3
+  },
+  {
+   "text": "que",
+   "startMs": 91246,
+   "endMs": 91422,
+   "escena": 3
+  },
+  {
+   "text": "tu",
+   "startMs": 91422,
+   "endMs": 91598,
+   "escena": 3
+  },
+  {
+   "text": "cheque",
+   "startMs": 91598,
+   "endMs": 91950,
+   "escena": 3
+  },
+  {
+   "text": "suba",
+   "startMs": 91950,
+   "endMs": 92302,
+   "escena": 3
+  },
+  {
+   "text": "más",
+   "startMs": 92302,
+   "endMs": 92478,
+   "escena": 3
+  },
+  {
+   "text": "o",
+   "startMs": 92478,
+   "endMs": 92654,
+   "escena": 3
+  },
+  {
+   "text": "menos",
+   "startMs": 92654,
+   "endMs": 93005,
+   "escena": 3
+  },
+  {
+   "text": "en",
+   "startMs": 93005,
+   "endMs": 93181,
+   "escena": 3
+  },
+  {
+   "text": "la",
+   "startMs": 93181,
+   "endMs": 93357,
+   "escena": 3
+  },
+  {
+   "text": "misma",
+   "startMs": 93357,
+   "endMs": 93709,
+   "escena": 3
+  },
+  {
+   "text": "proporción.",
+   "startMs": 93709,
+   "endMs": 94237,
+   "escena": 3
+  },
+  {
+   "text": "Para",
+   "startMs": 94927,
+   "endMs": 95279,
+   "escena": 3
+  },
+  {
+   "text": "que",
+   "startMs": 95279,
+   "endMs": 95455,
+   "escena": 3
+  },
+  {
+   "text": "te",
+   "startMs": 95455,
+   "endMs": 95631,
+   "escena": 3
+  },
+  {
+   "text": "hagas",
+   "startMs": 95631,
+   "endMs": 95982,
+   "escena": 3
+  },
+  {
+   "text": "una",
+   "startMs": 95982,
+   "endMs": 96334,
+   "escena": 3
+  },
+  {
+   "text": "idea,",
+   "startMs": 96334,
+   "endMs": 96686,
+   "escena": 3
+  },
+  {
+   "text": "en",
+   "startMs": 96846,
+   "endMs": 97022,
+   "escena": 3
+  },
+  {
+   "text": "2026",
+   "startMs": 97022,
+   "endMs": 98605,
+   "escena": 3
+  },
+  {
+   "text": "el",
+   "startMs": 98605,
+   "endMs": 98781,
+   "escena": 3
+  },
+  {
+   "text": "aumento",
+   "startMs": 98781,
+   "endMs": 99309,
+   "escena": 3
+  },
+  {
+   "text": "fue",
+   "startMs": 99309,
+   "endMs": 99485,
+   "escena": 3
+  },
+  {
+   "text": "del",
+   "startMs": 99485,
+   "endMs": 99661,
+   "escena": 3
+  },
+  {
+   "text": "2,8 %.",
+   "startMs": 99661,
+   "endMs": 101596,
+   "escena": 3
+  },
+  {
+   "text": "Para",
+   "startMs": 101936,
+   "endMs": 102288,
+   "escena": 3
+  },
+  {
+   "text": "2027",
+   "startMs": 102288,
+   "endMs": 103871,
+   "escena": 3
+  },
+  {
+   "text": "es",
+   "startMs": 103871,
+   "endMs": 104047,
+   "escena": 3
+  },
+  {
+   "text": "mayor:",
+   "startMs": 104047,
+   "endMs": 104223,
+   "escena": 3
+  },
+  {
+   "text": "el",
+   "startMs": 104483,
+   "endMs": 104659,
+   "escena": 3
+  },
+  {
+   "text": "más",
+   "startMs": 104659,
+   "endMs": 104835,
+   "escena": 3
+  },
+  {
+   "text": "alto",
+   "startMs": 104835,
+   "endMs": 105187,
+   "escena": 3
+  },
+  {
+   "text": "desde",
+   "startMs": 105187,
+   "endMs": 105538,
+   "escena": 3
+  },
+  {
+   "text": "2023.",
+   "startMs": 105538,
+   "endMs": 107122,
+   "escena": 3
+  },
+  {
+   "text": "Una",
+   "startMs": 107812,
+   "endMs": 108164,
+   "escena": 3
+  },
+  {
+   "text": "cosa",
+   "startMs": 108164,
+   "endMs": 108515,
+   "escena": 3
+  },
+  {
+   "text": "importante:",
+   "startMs": 108515,
+   "endMs": 109219,
+   "escena": 3
+  },
+  {
+   "text": "el",
+   "startMs": 109479,
+   "endMs": 109655,
+   "escena": 3
+  },
+  {
+   "text": "COLA",
+   "startMs": 109655,
+   "endMs": 110007,
+   "escena": 3
+  },
+  {
+   "text": "no",
+   "startMs": 110007,
+   "endMs": 110183,
+   "escena": 3
+  },
+  {
+   "text": "es",
+   "startMs": 110183,
+   "endMs": 110359,
+   "escena": 3
+  },
+  {
+   "text": "un",
+   "startMs": 110359,
+   "endMs": 110535,
+   "escena": 3
+  },
+  {
+   "text": "regalo",
+   "startMs": 110535,
+   "endMs": 111062,
+   "escena": 3
+  },
+  {
+   "text": "ni",
+   "startMs": 111062,
+   "endMs": 111238,
+   "escena": 3
+  },
+  {
+   "text": "un",
+   "startMs": 111238,
+   "endMs": 111414,
+   "escena": 3
+  },
+  {
+   "text": "aumento",
+   "startMs": 111414,
+   "endMs": 111942,
+   "escena": 3
+  },
+  {
+   "text": "extra.",
+   "startMs": 111942,
+   "endMs": 112294,
+   "escena": 3
+  },
+  {
+   "text": "Solo",
+   "startMs": 112634,
+   "endMs": 112986,
+   "escena": 3
+  },
+  {
+   "text": "intenta",
+   "startMs": 112986,
+   "endMs": 113513,
+   "escena": 3
+  },
+  {
+   "text": "que",
+   "startMs": 113513,
+   "endMs": 113689,
+   "escena": 3
+  },
+  {
+   "text": "no",
+   "startMs": 113689,
+   "endMs": 113865,
+   "escena": 3
+  },
+  {
+   "text": "pierdas",
+   "startMs": 113865,
+   "endMs": 114217,
+   "escena": 3
+  },
+  {
+   "text": "poder",
+   "startMs": 114217,
+   "endMs": 114569,
+   "escena": 3
+  },
+  {
+   "text": "de",
+   "startMs": 114569,
+   "endMs": 114745,
+   "escena": 3
+  },
+  {
+   "text": "compra.",
+   "startMs": 114745,
+   "endMs": 115097,
+   "escena": 3
+  },
+  {
+   "text": "Y",
+   "startMs": 115437,
+   "endMs": 115613,
+   "escena": 3
+  },
+  {
+   "text": "muchos",
+   "startMs": 115613,
+   "endMs": 115964,
+   "escena": 3
+  },
+  {
+   "text": "jubilados",
+   "startMs": 115964,
+   "endMs": 116668,
+   "escena": 3
+  },
+  {
+   "text": "sienten",
+   "startMs": 116668,
+   "endMs": 117020,
+   "escena": 3
+  },
+  {
+   "text": "que",
+   "startMs": 117020,
+   "endMs": 117196,
+   "escena": 3
+  },
+  {
+   "text": "se",
+   "startMs": 117196,
+   "endMs": 117372,
+   "escena": 3
+  },
+  {
+   "text": "queda",
+   "startMs": 117372,
+   "endMs": 117724,
+   "escena": 3
+  },
+  {
+   "text": "corto:",
+   "startMs": 117724,
+   "endMs": 118075,
+   "escena": 3
+  },
+  {
+   "text": "en",
+   "startMs": 118335,
+   "endMs": 118511,
+   "escena": 3
+  },
+  {
+   "text": "una",
+   "startMs": 118511,
+   "endMs": 118863,
+   "escena": 3
+  },
+  {
+   "text": "encuesta",
+   "startMs": 118863,
+   "endMs": 119391,
+   "escena": 3
+  },
+  {
+   "text": "de",
+   "startMs": 119391,
+   "endMs": 119567,
+   "escena": 3
+  },
+  {
+   "text": "AARP",
+   "startMs": 119567,
+   "endMs": 119743,
+   "escena": 3
+  },
+  {
+   "text": "de",
+   "startMs": 119743,
+   "endMs": 119919,
+   "escena": 3
+  },
+  {
+   "text": "septiembre,",
+   "startMs": 119919,
+   "endMs": 120447,
+   "escena": 3
+  },
+  {
+   "text": "ocho",
+   "startMs": 120607,
+   "endMs": 120958,
+   "escena": 3
+  },
+  {
+   "text": "de",
+   "startMs": 120958,
+   "endMs": 121134,
+   "escena": 3
+  },
+  {
+   "text": "cada",
+   "startMs": 121134,
+   "endMs": 121486,
+   "escena": 3
+  },
+  {
+   "text": "diez",
+   "startMs": 121486,
+   "endMs": 121662,
+   "escena": 3
+  },
+  {
+   "text": "dijeron",
+   "startMs": 121662,
+   "endMs": 122190,
+   "escena": 3
+  },
+  {
+   "text": "que",
+   "startMs": 122190,
+   "endMs": 122366,
+   "escena": 3
+  },
+  {
+   "text": "un",
+   "startMs": 122366,
+   "endMs": 122542,
+   "escena": 3
+  },
+  {
+   "text": "aumento",
+   "startMs": 122542,
+   "endMs": 123069,
+   "escena": 3
+  },
+  {
+   "text": "del",
+   "startMs": 123069,
+   "endMs": 123245,
+   "escena": 3
+  },
+  {
+   "text": "3,5 %",
+   "startMs": 123245,
+   "endMs": 125180,
+   "escena": 3
+  },
+  {
+   "text": "no",
+   "startMs": 125180,
+   "endMs": 125356,
+   "escena": 3
+  },
+  {
+   "text": "les",
+   "startMs": 125356,
+   "endMs": 125532,
+   "escena": 3
+  },
+  {
+   "text": "alcanzaría",
+   "startMs": 125532,
+   "endMs": 126236,
+   "escena": 3
+  },
+  {
+   "text": "para",
+   "startMs": 126236,
+   "endMs": 126588,
+   "escena": 3
+  },
+  {
+   "text": "seguir",
+   "startMs": 126588,
+   "endMs": 126940,
+   "escena": 3
+  },
+  {
+   "text": "el",
+   "startMs": 126940,
+   "endMs": 127116,
+   "escena": 3
+  },
+  {
+   "text": "ritmo",
+   "startMs": 127116,
+   "endMs": 127467,
+   "escena": 3
+  },
+  {
+   "text": "de",
+   "startMs": 127467,
+   "endMs": 127643,
+   "escena": 3
+  },
+  {
+   "text": "los",
+   "startMs": 127643,
+   "endMs": 127819,
+   "escena": 3
+  },
+  {
+   "text": "precios.",
+   "startMs": 127819,
+   "endMs": 128171,
+   "escena": 3
+  },
+  {
+   "text": "Hay",
+   "startMs": 128861,
+   "endMs": 129037,
+   "escena": 3
+  },
+  {
+   "text": "una",
+   "startMs": 129037,
+   "endMs": 129389,
+   "escena": 3
+  },
+  {
+   "text": "razón:",
+   "startMs": 129389,
+   "endMs": 129741,
+   "escena": 3
+  },
+  {
+   "text": "el",
+   "startMs": 130001,
+   "endMs": 130177,
+   "escena": 3
+  },
+  {
+   "text": "índice",
+   "startMs": 130177,
+   "endMs": 130704,
+   "escena": 3
+  },
+  {
+   "text": "que",
+   "startMs": 130704,
+   "endMs": 130880,
+   "escena": 3
+  },
+  {
+   "text": "se",
+   "startMs": 130880,
+   "endMs": 131056,
+   "escena": 3
+  },
+  {
+   "text": "usa",
+   "startMs": 131056,
+   "endMs": 131408,
+   "escena": 3
+  },
+  {
+   "text": "mide",
+   "startMs": 131408,
+   "endMs": 131760,
+   "escena": 3
+  },
+  {
+   "text": "sobre",
+   "startMs": 131760,
+   "endMs": 132112,
+   "escena": 3
+  },
+  {
+   "text": "todo",
+   "startMs": 132112,
+   "endMs": 132464,
+   "escena": 3
+  },
+  {
+   "text": "los",
+   "startMs": 132464,
+   "endMs": 132640,
+   "escena": 3
+  },
+  {
+   "text": "gastos",
+   "startMs": 132640,
+   "endMs": 132991,
+   "escena": 3
+  },
+  {
+   "text": "de",
+   "startMs": 132991,
+   "endMs": 133167,
+   "escena": 3
+  },
+  {
+   "text": "trabajadores",
+   "startMs": 133167,
+   "endMs": 134047,
+   "escena": 3
+  },
+  {
+   "text": "jóvenes,",
+   "startMs": 134047,
+   "endMs": 134575,
+   "escena": 3
+  },
+  {
+   "text": "no",
+   "startMs": 134735,
+   "endMs": 134911,
+   "escena": 3
+  },
+  {
+   "text": "los",
+   "startMs": 134911,
+   "endMs": 135086,
+   "escena": 3
+  },
+  {
+   "text": "de",
+   "startMs": 135086,
+   "endMs": 135262,
+   "escena": 3
+  },
+  {
+   "text": "las",
+   "startMs": 135262,
+   "endMs": 135438,
+   "escena": 3
+  },
+  {
+   "text": "personas",
+   "startMs": 135438,
+   "endMs": 135966,
+   "escena": 3
+  },
+  {
+   "text": "mayores,",
+   "startMs": 135966,
+   "endMs": 136318,
+   "escena": 3
+  },
+  {
+   "text": "que",
+   "startMs": 136478,
+   "endMs": 136654,
+   "escena": 3
+  },
+  {
+   "text": "gastan",
+   "startMs": 136654,
+   "endMs": 137006,
+   "escena": 3
+  },
+  {
+   "text": "mucho",
+   "startMs": 137006,
+   "endMs": 137358,
+   "escena": 3
+  },
+  {
+   "text": "más",
+   "startMs": 137358,
+   "endMs": 137533,
+   "escena": 3
+  },
+  {
+   "text": "en",
+   "startMs": 137533,
+   "endMs": 137709,
+   "escena": 3
+  },
+  {
+   "text": "salud",
+   "startMs": 137709,
+   "endMs": 138061,
+   "escena": 3
+  },
+  {
+   "text": "y",
+   "startMs": 138061,
+   "endMs": 138237,
+   "escena": 3
+  },
+  {
+   "text": "en",
+   "startMs": 138237,
+   "endMs": 138413,
+   "escena": 3
+  },
+  {
+   "text": "vivienda.",
+   "startMs": 138413,
+   "endMs": 138941,
+   "escena": 3
+  },
+  {
+   "text": "El",
+   "startMs": 139781,
+   "endMs": 139957,
+   "escena": 4
+  },
+  {
+   "text": "14",
+   "startMs": 139957,
+   "endMs": 140836,
+   "escena": 4
+  },
+  {
+   "text": "de",
+   "startMs": 140836,
+   "endMs": 141012,
+   "escena": 4
+  },
+  {
+   "text": "octubre,",
+   "startMs": 141012,
+   "endMs": 141540,
+   "escena": 4
+  },
+  {
+   "text": "el",
+   "startMs": 141700,
+   "endMs": 141876,
+   "escena": 4
+  },
+  {
+   "text": "Seguro",
+   "startMs": 141876,
+   "endMs": 142404,
+   "escena": 4
+  },
+  {
+   "text": "Social",
+   "startMs": 142404,
+   "endMs": 142756,
+   "escena": 4
+  },
+  {
+   "text": "anunció",
+   "startMs": 142756,
+   "endMs": 143283,
+   "escena": 4
+  },
+  {
+   "text": "un",
+   "startMs": 143283,
+   "endMs": 143459,
+   "escena": 4
+  },
+  {
+   "text": "aumento",
+   "startMs": 143459,
+   "endMs": 143987,
+   "escena": 4
+  },
+  {
+   "text": "del",
+   "startMs": 143987,
+   "endMs": 144163,
+   "escena": 4
+  },
+  {
+   "text": "3,6 %",
+   "startMs": 144163,
+   "endMs": 146098,
+   "escena": 4
+  },
+  {
+   "text": "para",
+   "startMs": 146098,
+   "endMs": 146450,
+   "escena": 4
+  },
+  {
+   "text": "2027.",
+   "startMs": 146450,
+   "endMs": 148033,
+   "escena": 4
+  },
+  {
+   "text": "Según",
+   "startMs": 148373,
+   "endMs": 148725,
+   "escena": 4
+  },
+  {
+   "text": "la",
+   "startMs": 148725,
+   "endMs": 148901,
+   "escena": 4
+  },
+  {
+   "text": "agencia,",
+   "startMs": 148901,
+   "endMs": 149429,
+   "escena": 4
+  },
+  {
+   "text": "eso",
+   "startMs": 149589,
+   "endMs": 149940,
+   "escena": 4
+  },
+  {
+   "text": "supone",
+   "startMs": 149940,
+   "endMs": 150468,
+   "escena": 4
+  },
+  {
+   "text": "unos",
+   "startMs": 150468,
+   "endMs": 150820,
+   "escena": 4
+  },
+  {
+   "text": "75",
+   "startMs": 150820,
+   "endMs": 151700,
+   "escena": 4
+  },
+  {
+   "text": "dólares",
+   "startMs": 151700,
+   "endMs": 152227,
+   "escena": 4
+  },
+  {
+   "text": "más",
+   "startMs": 152227,
+   "endMs": 152403,
+   "escena": 4
+  },
+  {
+   "text": "al",
+   "startMs": 152403,
+   "endMs": 152579,
+   "escena": 4
+  },
+  {
+   "text": "mes",
+   "startMs": 152579,
+   "endMs": 152755,
+   "escena": 4
+  },
+  {
+   "text": "para",
+   "startMs": 152755,
+   "endMs": 153107,
+   "escena": 4
+  },
+  {
+   "text": "el",
+   "startMs": 153107,
+   "endMs": 153283,
+   "escena": 4
+  },
+  {
+   "text": "beneficiario",
+   "startMs": 153283,
+   "endMs": 154163,
+   "escena": 4
+  },
+  {
+   "text": "promedio.",
+   "startMs": 154163,
+   "endMs": 154690,
+   "escena": 4
+  },
+  {
+   "text": "Pero",
+   "startMs": 155380,
+   "endMs": 155732,
+   "escena": 4
+  },
+  {
+   "text": "tú",
+   "startMs": 155732,
+   "endMs": 155908,
+   "escena": 4
+  },
+  {
+   "text": "no",
+   "startMs": 155908,
+   "endMs": 156084,
+   "escena": 4
+  },
+  {
+   "text": "eres",
+   "startMs": 156084,
+   "endMs": 156436,
+   "escena": 4
+  },
+  {
+   "text": "un",
+   "startMs": 156436,
+   "endMs": 156612,
+   "escena": 4
+  },
+  {
+   "text": "promedio.",
+   "startMs": 156612,
+   "endMs": 157140,
+   "escena": 4
+  },
+  {
+   "text": "Veamos",
+   "startMs": 157480,
+   "endMs": 157831,
+   "escena": 4
+  },
+  {
+   "text": "ejemplos",
+   "startMs": 157831,
+   "endMs": 158359,
+   "escena": 4
+  },
+  {
+   "text": "concretos.",
+   "startMs": 158359,
+   "endMs": 158887,
+   "escena": 4
+  },
+  {
+   "text": "Si",
+   "startMs": 159577,
+   "endMs": 159753,
+   "escena": 4
+  },
+  {
+   "text": "cobras",
+   "startMs": 159753,
+   "endMs": 160105,
+   "escena": 4
+  },
+  {
+   "text": "1.200",
+   "startMs": 160105,
+   "endMs": 160984,
+   "escena": 4
+  },
+  {
+   "text": "dólares,",
+   "startMs": 160984,
+   "endMs": 161512,
+   "escena": 4
+  },
+  {
+   "text": "pasarás",
+   "startMs": 161672,
+   "endMs": 162200,
+   "escena": 4
+  },
+  {
+   "text": "a",
+   "startMs": 162200,
+   "endMs": 162376,
+   "escena": 4
+  },
+  {
+   "text": "unos",
+   "startMs": 162376,
+   "endMs": 162728,
+   "escena": 4
+  },
+  {
+   "text": "1.243:",
+   "startMs": 162728,
+   "endMs": 164311,
+   "escena": 4
+  },
+  {
+   "text": "43",
+   "startMs": 164571,
+   "endMs": 165450,
+   "escena": 4
+  },
+  {
+   "text": "dólares",
+   "startMs": 165450,
+   "endMs": 165978,
+   "escena": 4
+  },
+  {
+   "text": "más.",
+   "startMs": 165978,
+   "endMs": 166154,
+   "escena": 4
+  },
+  {
+   "text": "Con",
+   "startMs": 166494,
+   "endMs": 166670,
+   "escena": 4
+  },
+  {
+   "text": "1.500,",
+   "startMs": 166670,
+   "endMs": 167550,
+   "escena": 4
+  },
+  {
+   "text": "subes",
+   "startMs": 167710,
+   "endMs": 168061,
+   "escena": 4
+  },
+  {
+   "text": "a",
+   "startMs": 168061,
+   "endMs": 168237,
+   "escena": 4
+  },
+  {
+   "text": "1.554.",
+   "startMs": 168237,
+   "endMs": 169821,
+   "escena": 4
+  },
+  {
+   "text": "Con",
+   "startMs": 170161,
+   "endMs": 170337,
+   "escena": 4
+  },
+  {
+   "text": "2.000,",
+   "startMs": 170337,
+   "endMs": 170864,
+   "escena": 4
+  },
+  {
+   "text": "llegas",
+   "startMs": 171024,
+   "endMs": 171376,
+   "escena": 4
+  },
+  {
+   "text": "a",
+   "startMs": 171376,
+   "endMs": 171552,
+   "escena": 4
+  },
+  {
+   "text": "2.072:",
+   "startMs": 171552,
+   "endMs": 173135,
+   "escena": 4
+  },
+  {
+   "text": "72",
+   "startMs": 173395,
+   "endMs": 174275,
+   "escena": 4
+  },
+  {
+   "text": "dólares",
+   "startMs": 174275,
+   "endMs": 174803,
+   "escena": 4
+  },
+  {
+   "text": "más",
+   "startMs": 174803,
+   "endMs": 174979,
+   "escena": 4
+  },
+  {
+   "text": "al",
+   "startMs": 174979,
+   "endMs": 175155,
+   "escena": 4
+  },
+  {
+   "text": "mes.",
+   "startMs": 175155,
+   "endMs": 175330,
+   "escena": 4
+  },
+  {
+   "text": "Y",
+   "startMs": 175670,
+   "endMs": 175846,
+   "escena": 4
+  },
+  {
+   "text": "con",
+   "startMs": 175846,
+   "endMs": 176022,
+   "escena": 4
+  },
+  {
+   "text": "2.500,",
+   "startMs": 176022,
+   "endMs": 176902,
+   "escena": 4
+  },
+  {
+   "text": "subes",
+   "startMs": 177062,
+   "endMs": 177414,
+   "escena": 4
+  },
+  {
+   "text": "a",
+   "startMs": 177414,
+   "endMs": 177590,
+   "escena": 4
+  },
+  {
+   "text": "2.590.",
+   "startMs": 177590,
+   "endMs": 178821,
+   "escena": 4
+  },
+  {
+   "text": "Miguel",
+   "startMs": 179511,
+   "endMs": 179863,
+   "escena": 4
+  },
+  {
+   "text": "cobra",
+   "startMs": 179863,
+   "endMs": 180215,
+   "escena": 4
+  },
+  {
+   "text": "2.000",
+   "startMs": 180215,
+   "endMs": 180743,
+   "escena": 4
+  },
+  {
+   "text": "dólares.",
+   "startMs": 180743,
+   "endMs": 181270,
+   "escena": 4
+  },
+  {
+   "text": "Así",
+   "startMs": 181610,
+   "endMs": 181962,
+   "escena": 4
+  },
+  {
+   "text": "que,",
+   "startMs": 181962,
+   "endMs": 182138,
+   "escena": 4
+  },
+  {
+   "text": "en",
+   "startMs": 182298,
+   "endMs": 182474,
+   "escena": 4
+  },
+  {
+   "text": "papel,",
+   "startMs": 182474,
+   "endMs": 182826,
+   "escena": 4
+  },
+  {
+   "text": "a",
+   "startMs": 182986,
+   "endMs": 183162,
+   "escena": 4
+  },
+  {
+   "text": "partir",
+   "startMs": 183162,
+   "endMs": 183514,
+   "escena": 4
+  },
+  {
+   "text": "de",
+   "startMs": 183514,
+   "endMs": 183690,
+   "escena": 4
+  },
+  {
+   "text": "enero",
+   "startMs": 183690,
+   "endMs": 184217,
+   "escena": 4
+  },
+  {
+   "text": "recibirá",
+   "startMs": 184217,
+   "endMs": 184921,
+   "escena": 4
+  },
+  {
+   "text": "2.072.",
+   "startMs": 184921,
+   "endMs": 186504,
+   "escena": 4
+  },
+  {
+   "text": "Un",
+   "startMs": 186844,
+   "endMs": 187020,
+   "escena": 4
+  },
+  {
+   "text": "detalle:",
+   "startMs": 187020,
+   "endMs": 187548,
+   "escena": 4
+  },
+  {
+   "text": "el",
+   "startMs": 187808,
+   "endMs": 187984,
+   "escena": 4
+  },
+  {
+   "text": "Seguro",
+   "startMs": 187984,
+   "endMs": 188512,
+   "escena": 4
+  },
+  {
+   "text": "Social",
+   "startMs": 188512,
+   "endMs": 188863,
+   "escena": 4
+  },
+  {
+   "text": "siempre",
+   "startMs": 188863,
+   "endMs": 189215,
+   "escena": 4
+  },
+  {
+   "text": "redondea",
+   "startMs": 189215,
+   "endMs": 189743,
+   "escena": 4
+  },
+  {
+   "text": "a",
+   "startMs": 189743,
+   "endMs": 189919,
+   "escena": 4
+  },
+  {
+   "text": "la",
+   "startMs": 189919,
+   "endMs": 190095,
+   "escena": 4
+  },
+  {
+   "text": "baja",
+   "startMs": 190095,
+   "endMs": 190447,
+   "escena": 4
+  },
+  {
+   "text": "al",
+   "startMs": 190447,
+   "endMs": 190623,
+   "escena": 4
+  },
+  {
+   "text": "dólar",
+   "startMs": 190623,
+   "endMs": 190974,
+   "escena": 4
+  },
+  {
+   "text": "entero.",
+   "startMs": 190974,
+   "endMs": 191502,
+   "escena": 4
+  },
+  {
+   "text": "Pero",
+   "startMs": 192192,
+   "endMs": 192544,
+   "escena": 4
+  },
+  {
+   "text": "«en",
+   "startMs": 192544,
+   "endMs": 192720,
+   "escena": 4
+  },
+  {
+   "text": "papel»",
+   "startMs": 192720,
+   "endMs": 193072,
+   "escena": 4
+  },
+  {
+   "text": "es",
+   "startMs": 193072,
+   "endMs": 193248,
+   "escena": 4
+  },
+  {
+   "text": "la",
+   "startMs": 193248,
+   "endMs": 193424,
+   "escena": 4
+  },
+  {
+   "text": "clave.",
+   "startMs": 193424,
+   "endMs": 193776,
+   "escena": 4
+  },
+  {
+   "text": "Porque",
+   "startMs": 194116,
+   "endMs": 194467,
+   "escena": 4
+  },
+  {
+   "text": "Miguel",
+   "startMs": 194467,
+   "endMs": 194819,
+   "escena": 4
+  },
+  {
+   "text": "tiene",
+   "startMs": 194819,
+   "endMs": 195171,
+   "escena": 4
+  },
+  {
+   "text": "Medicare,",
+   "startMs": 195171,
+   "endMs": 195875,
+   "escena": 4
+  },
+  {
+   "text": "y",
+   "startMs": 196035,
+   "endMs": 196211,
+   "escena": 4
+  },
+  {
+   "text": "aquí",
+   "startMs": 196211,
+   "endMs": 196562,
+   "escena": 4
+  },
+  {
+   "text": "empieza",
+   "startMs": 196562,
+   "endMs": 197090,
+   "escena": 4
+  },
+  {
+   "text": "lo",
+   "startMs": 197090,
+   "endMs": 197266,
+   "escena": 4
+  },
+  {
+   "text": "interesante.",
+   "startMs": 197266,
+   "endMs": 198146,
+   "escena": 4
+  },
+  {
+   "text": "Si",
+   "startMs": 198986,
+   "endMs": 199162,
+   "escena": 5
+  },
+  {
+   "text": "tienes",
+   "startMs": 199162,
+   "endMs": 199514,
+   "escena": 5
+  },
+  {
+   "text": "Medicare,",
+   "startMs": 199514,
+   "endMs": 200217,
+   "escena": 5
+  },
+  {
+   "text": "la",
+   "startMs": 200377,
+   "endMs": 200553,
+   "escena": 5
+  },
+  {
+   "text": "prima",
+   "startMs": 200553,
+   "endMs": 200905,
+   "escena": 5
+  },
+  {
+   "text": "de",
+   "startMs": 200905,
+   "endMs": 201081,
+   "escena": 5
+  },
+  {
+   "text": "la",
+   "startMs": 201081,
+   "endMs": 201257,
+   "escena": 5
+  },
+  {
+   "text": "Parte",
+   "startMs": 201257,
+   "endMs": 201609,
+   "escena": 5
+  },
+  {
+   "text": "B,",
+   "startMs": 201609,
+   "endMs": 201785,
+   "escena": 5
+  },
+  {
+   "text": "la",
+   "startMs": 201945,
+   "endMs": 202120,
+   "escena": 5
+  },
+  {
+   "text": "que",
+   "startMs": 202120,
+   "endMs": 202296,
+   "escena": 5
+  },
+  {
+   "text": "cubre",
+   "startMs": 202296,
+   "endMs": 202648,
+   "escena": 5
+  },
+  {
+   "text": "tus",
+   "startMs": 202648,
+   "endMs": 202824,
+   "escena": 5
+  },
+  {
+   "text": "visitas",
+   "startMs": 202824,
+   "endMs": 203352,
+   "escena": 5
+  },
+  {
+   "text": "al",
+   "startMs": 203352,
+   "endMs": 203528,
+   "escena": 5
+  },
+  {
+   "text": "médico",
+   "startMs": 203528,
+   "endMs": 204056,
+   "escena": 5
+  },
+  {
+   "text": "y",
+   "startMs": 204056,
+   "endMs": 204232,
+   "escena": 5
+  },
+  {
+   "text": "la",
+   "startMs": 204232,
+   "endMs": 204407,
+   "escena": 5
+  },
+  {
+   "text": "atención",
+   "startMs": 204407,
+   "endMs": 204935,
+   "escena": 5
+  },
+  {
+   "text": "ambulatoria,",
+   "startMs": 204935,
+   "endMs": 205815,
+   "escena": 5
+  },
+  {
+   "text": "normalmente",
+   "startMs": 205975,
+   "endMs": 206679,
+   "escena": 5
+  },
+  {
+   "text": "se",
+   "startMs": 206679,
+   "endMs": 206854,
+   "escena": 5
+  },
+  {
+   "text": "descuenta",
+   "startMs": 206854,
+   "endMs": 207382,
+   "escena": 5
+  },
+  {
+   "text": "directamente",
+   "startMs": 207382,
+   "endMs": 208262,
+   "escena": 5
+  },
+  {
+   "text": "de",
+   "startMs": 208262,
+   "endMs": 208438,
+   "escena": 5
+  },
+  {
+   "text": "tu",
+   "startMs": 208438,
+   "endMs": 208614,
+   "escena": 5
+  },
+  {
+   "text": "cheque",
+   "startMs": 208614,
+   "endMs": 208965,
+   "escena": 5
+  },
+  {
+   "text": "del",
+   "startMs": 208965,
+   "endMs": 209141,
+   "escena": 5
+  },
+  {
+   "text": "Seguro",
+   "startMs": 209141,
+   "endMs": 209669,
+   "escena": 5
+  },
+  {
+   "text": "Social.",
+   "startMs": 209669,
+   "endMs": 210021,
+   "escena": 5
+  },
+  {
+   "text": "En",
+   "startMs": 210711,
+   "endMs": 210887,
+   "escena": 5
+  },
+  {
+   "text": "2026",
+   "startMs": 210887,
+   "endMs": 212470,
+   "escena": 5
+  },
+  {
+   "text": "esa",
+   "startMs": 212470,
+   "endMs": 212822,
+   "escena": 5
+  },
+  {
+   "text": "prima",
+   "startMs": 212822,
+   "endMs": 213174,
+   "escena": 5
+  },
+  {
+   "text": "estándar",
+   "startMs": 213174,
+   "endMs": 213702,
+   "escena": 5
+  },
+  {
+   "text": "es",
+   "startMs": 213702,
+   "endMs": 213878,
+   "escena": 5
+  },
+  {
+   "text": "de",
+   "startMs": 213878,
+   "endMs": 214053,
+   "escena": 5
+  },
+  {
+   "text": "202",
+   "startMs": 214053,
+   "endMs": 215285,
+   "escena": 5
+  },
+  {
+   "text": "dólares",
+   "startMs": 215285,
+   "endMs": 215813,
+   "escena": 5
+  },
+  {
+   "text": "con",
+   "startMs": 215813,
+   "endMs": 215989,
+   "escena": 5
+  },
+  {
+   "text": "90",
+   "startMs": 215989,
+   "endMs": 216516,
+   "escena": 5
+  },
+  {
+   "text": "centavos",
+   "startMs": 216516,
+   "endMs": 217044,
+   "escena": 5
+  },
+  {
+   "text": "al",
+   "startMs": 217044,
+   "endMs": 217220,
+   "escena": 5
+  },
+  {
+   "text": "mes.",
+   "startMs": 217220,
+   "endMs": 217396,
+   "escena": 5
+  },
+  {
+   "text": "Para",
+   "startMs": 217736,
+   "endMs": 218088,
+   "escena": 5
+  },
+  {
+   "text": "2027,",
+   "startMs": 218088,
+   "endMs": 219671,
+   "escena": 5
+  },
+  {
+   "text": "los",
+   "startMs": 219831,
+   "endMs": 220007,
+   "escena": 5
+  },
+  {
+   "text": "fideicomisarios",
+   "startMs": 220007,
+   "endMs": 221063,
+   "escena": 5
+  },
+  {
+   "text": "de",
+   "startMs": 221063,
+   "endMs": 221238,
+   "escena": 5
+  },
+  {
+   "text": "Medicare",
+   "startMs": 221238,
+   "endMs": 221942,
+   "escena": 5
+  },
+  {
+   "text": "proyectan",
+   "startMs": 221942,
+   "endMs": 222294,
+   "escena": 5
+  },
+  {
+   "text": "que",
+   "startMs": 222294,
+   "endMs": 222470,
+   "escena": 5
+  },
+  {
+   "text": "suba",
+   "startMs": 222470,
+   "endMs": 222822,
+   "escena": 5
+  },
+  {
+   "text": "a",
+   "startMs": 222822,
+   "endMs": 222998,
+   "escena": 5
+  },
+  {
+   "text": "209",
+   "startMs": 222998,
+   "endMs": 224229,
+   "escena": 5
+  },
+  {
+   "text": "con",
+   "startMs": 224229,
+   "endMs": 224405,
+   "escena": 5
+  },
+  {
+   "text": "50:",
+   "startMs": 224405,
+   "endMs": 224933,
+   "escena": 5
+  },
+  {
+   "text": "unos",
+   "startMs": 225193,
+   "endMs": 225545,
+   "escena": 5
+  },
+  {
+   "text": "6",
+   "startMs": 225545,
+   "endMs": 226072,
+   "escena": 5
+  },
+  {
+   "text": "dólares",
+   "startMs": 226072,
+   "endMs": 226600,
+   "escena": 5
+  },
+  {
+   "text": "con",
+   "startMs": 226600,
+   "endMs": 226776,
+   "escena": 5
+  },
+  {
+   "text": "60",
+   "startMs": 226776,
+   "endMs": 227304,
+   "escena": 5
+  },
+  {
+   "text": "más.",
+   "startMs": 227304,
+   "endMs": 227480,
+   "escena": 5
+  },
+  {
+   "text": "La",
+   "startMs": 227820,
+   "endMs": 227996,
+   "escena": 5
+  },
+  {
+   "text": "cifra",
+   "startMs": 227996,
+   "endMs": 228347,
+   "escena": 5
+  },
+  {
+   "text": "oficial",
+   "startMs": 228347,
+   "endMs": 228875,
+   "escena": 5
+  },
+  {
+   "text": "se",
+   "startMs": 228875,
+   "endMs": 229051,
+   "escena": 5
+  },
+  {
+   "text": "publica",
+   "startMs": 229051,
+   "endMs": 229579,
+   "escena": 5
+  },
+  {
+   "text": "en",
+   "startMs": 229579,
+   "endMs": 229755,
+   "escena": 5
+  },
+  {
+   "text": "otoño,",
+   "startMs": 229755,
+   "endMs": 230283,
+   "escena": 5
+  },
+  {
+   "text": "así",
+   "startMs": 230443,
+   "endMs": 230794,
+   "escena": 5
+  },
+  {
+   "text": "que",
+   "startMs": 230794,
+   "endMs": 230970,
+   "escena": 5
+  },
+  {
+   "text": "confírmala",
+   "startMs": 230970,
+   "endMs": 231674,
+   "escena": 5
+  },
+  {
+   "text": "en",
+   "startMs": 231674,
+   "endMs": 231850,
+   "escena": 5
+  },
+  {
+   "text": "medicare.gov.",
+   "startMs": 231850,
+   "endMs": 232730,
+   "escena": 5
+  },
+  {
+   "text": "Hagamos",
+   "startMs": 233420,
+   "endMs": 233947,
+   "escena": 5
+  },
+  {
+   "text": "la",
+   "startMs": 233947,
+   "endMs": 234123,
+   "escena": 5
+  },
+  {
+   "text": "cuenta",
+   "startMs": 234123,
+   "endMs": 234475,
+   "escena": 5
+  },
+  {
+   "text": "de",
+   "startMs": 234475,
+   "endMs": 234651,
+   "escena": 5
+  },
+  {
+   "text": "Miguel:",
+   "startMs": 234651,
+   "endMs": 235003,
+   "escena": 5
+  },
+  {
+   "text": "72",
+   "startMs": 235263,
+   "endMs": 236142,
+   "escena": 5
+  },
+  {
+   "text": "dólares",
+   "startMs": 236142,
+   "endMs": 236670,
+   "escena": 5
+  },
+  {
+   "text": "de",
+   "startMs": 236670,
+   "endMs": 236846,
+   "escena": 5
+  },
+  {
+   "text": "aumento,",
+   "startMs": 236846,
+   "endMs": 237374,
+   "escena": 5
+  },
+  {
+   "text": "menos",
+   "startMs": 237534,
+   "endMs": 237886,
+   "escena": 5
+  },
+  {
+   "text": "6",
+   "startMs": 237886,
+   "endMs": 238413,
+   "escena": 5
+  },
+  {
+   "text": "con",
+   "startMs": 238413,
+   "endMs": 238589,
+   "escena": 5
+  },
+  {
+   "text": "60",
+   "startMs": 238589,
+   "endMs": 239117,
+   "escena": 5
+  },
+  {
+   "text": "de",
+   "startMs": 239117,
+   "endMs": 239293,
+   "escena": 5
+  },
+  {
+   "text": "Medicare.",
+   "startMs": 239293,
+   "endMs": 239997,
+   "escena": 5
+  },
+  {
+   "text": "Le",
+   "startMs": 240337,
+   "endMs": 240513,
+   "escena": 5
+  },
+  {
+   "text": "quedan",
+   "startMs": 240513,
+   "endMs": 240865,
+   "escena": 5
+  },
+  {
+   "text": "unos",
+   "startMs": 240865,
+   "endMs": 241216,
+   "escena": 5
+  },
+  {
+   "text": "65",
+   "startMs": 241216,
+   "endMs": 242096,
+   "escena": 5
+  },
+  {
+   "text": "dólares",
+   "startMs": 242096,
+   "endMs": 242624,
+   "escena": 5
+  },
+  {
+   "text": "netos",
+   "startMs": 242624,
+   "endMs": 242976,
+   "escena": 5
+  },
+  {
+   "text": "más",
+   "startMs": 242976,
+   "endMs": 243151,
+   "escena": 5
+  },
+  {
+   "text": "al",
+   "startMs": 243151,
+   "endMs": 243327,
+   "escena": 5
+  },
+  {
+   "text": "mes.",
+   "startMs": 243327,
+   "endMs": 243503,
+   "escena": 5
+  },
+  {
+   "text": "Sigue",
+   "startMs": 243843,
+   "endMs": 244195,
+   "escena": 5
+  },
+  {
+   "text": "siendo",
+   "startMs": 244195,
+   "endMs": 244547,
+   "escena": 5
+  },
+  {
+   "text": "una",
+   "startMs": 244547,
+   "endMs": 244899,
+   "escena": 5
+  },
+  {
+   "text": "subida,",
+   "startMs": 244899,
+   "endMs": 245427,
+   "escena": 5
+  },
+  {
+   "text": "pero",
+   "startMs": 245587,
+   "endMs": 245938,
+   "escena": 5
+  },
+  {
+   "text": "no",
+   "startMs": 245938,
+   "endMs": 246114,
+   "escena": 5
+  },
+  {
+   "text": "es",
+   "startMs": 246114,
+   "endMs": 246290,
+   "escena": 5
+  },
+  {
+   "text": "la",
+   "startMs": 246290,
+   "endMs": 246466,
+   "escena": 5
+  },
+  {
+   "text": "que",
+   "startMs": 246466,
+   "endMs": 246642,
+   "escena": 5
+  },
+  {
+   "text": "dice",
+   "startMs": 246642,
+   "endMs": 246994,
+   "escena": 5
+  },
+  {
+   "text": "el",
+   "startMs": 246994,
+   "endMs": 247170,
+   "escena": 5
+  },
+  {
+   "text": "titular.",
+   "startMs": 247170,
+   "endMs": 247698,
+   "escena": 5
+  },
+  {
+   "text": "Y",
+   "startMs": 248388,
+   "endMs": 248564,
+   "escena": 5
+  },
+  {
+   "text": "ojo:",
+   "startMs": 248564,
+   "endMs": 248915,
+   "escena": 5
+  },
+  {
+   "text": "si",
+   "startMs": 249175,
+   "endMs": 249351,
+   "escena": 5
+  },
+  {
+   "text": "tienes",
+   "startMs": 249351,
+   "endMs": 249703,
+   "escena": 5
+  },
+  {
+   "text": "ingresos",
+   "startMs": 249703,
+   "endMs": 250231,
+   "escena": 5
+  },
+  {
+   "text": "altos,",
+   "startMs": 250231,
+   "endMs": 250583,
+   "escena": 5
+  },
+  {
+   "text": "puedes",
+   "startMs": 250743,
+   "endMs": 251095,
+   "escena": 5
+  },
+  {
+   "text": "pagar",
+   "startMs": 251095,
+   "endMs": 251446,
+   "escena": 5
+  },
+  {
+   "text": "un",
+   "startMs": 251446,
+   "endMs": 251622,
+   "escena": 5
+  },
+  {
+   "text": "recargo",
+   "startMs": 251622,
+   "endMs": 252150,
+   "escena": 5
+  },
+  {
+   "text": "adicional",
+   "startMs": 252150,
+   "endMs": 252854,
+   "escena": 5
+  },
+  {
+   "text": "en",
+   "startMs": 252854,
+   "endMs": 253030,
+   "escena": 5
+  },
+  {
+   "text": "la",
+   "startMs": 253030,
+   "endMs": 253206,
+   "escena": 5
+  },
+  {
+   "text": "Parte",
+   "startMs": 253206,
+   "endMs": 253557,
+   "escena": 5
+  },
+  {
+   "text": "B",
+   "startMs": 253557,
+   "endMs": 253733,
+   "escena": 5
+  },
+  {
+   "text": "y",
+   "startMs": 253733,
+   "endMs": 253909,
+   "escena": 5
+  },
+  {
+   "text": "en",
+   "startMs": 253909,
+   "endMs": 254085,
+   "escena": 5
+  },
+  {
+   "text": "la",
+   "startMs": 254085,
+   "endMs": 254261,
+   "escena": 5
+  },
+  {
+   "text": "cobertura",
+   "startMs": 254261,
+   "endMs": 254965,
+   "escena": 5
+  },
+  {
+   "text": "de",
+   "startMs": 254965,
+   "endMs": 255141,
+   "escena": 5
+  },
+  {
+   "text": "medicamentos.",
+   "startMs": 255141,
+   "endMs": 256020,
+   "escena": 5
+  },
+  {
+   "text": "En",
+   "startMs": 256360,
+   "endMs": 256536,
+   "escena": 5
+  },
+  {
+   "text": "ese",
+   "startMs": 256536,
+   "endMs": 256888,
+   "escena": 5
+  },
+  {
+   "text": "caso,",
+   "startMs": 256888,
+   "endMs": 257240,
+   "escena": 5
+  },
+  {
+   "text": "tu",
+   "startMs": 257400,
+   "endMs": 257576,
+   "escena": 5
+  },
+  {
+   "text": "aumento",
+   "startMs": 257576,
+   "endMs": 258104,
+   "escena": 5
+  },
+  {
+   "text": "neto",
+   "startMs": 258104,
+   "endMs": 258455,
+   "escena": 5
+  },
+  {
+   "text": "puede",
+   "startMs": 258455,
+   "endMs": 258807,
+   "escena": 5
+  },
+  {
+   "text": "ser",
+   "startMs": 258807,
+   "endMs": 258983,
+   "escena": 5
+  },
+  {
+   "text": "bastante",
+   "startMs": 258983,
+   "endMs": 259511,
+   "escena": 5
+  },
+  {
+   "text": "menor.",
+   "startMs": 259511,
+   "endMs": 259863,
+   "escena": 5
+  },
+  {
+   "text": "¿Y",
+   "startMs": 260553,
+   "endMs": 260729,
+   "escena": 5
+  },
+  {
+   "text": "Rosa?",
+   "startMs": 260729,
+   "endMs": 261081,
+   "escena": 5
+  },
+  {
+   "text": "Rosa",
+   "startMs": 261461,
+   "endMs": 261812,
+   "escena": 5
+  },
+  {
+   "text": "tiene",
+   "startMs": 261812,
+   "endMs": 262164,
+   "escena": 5
+  },
+  {
+   "text": "64",
+   "startMs": 262164,
+   "endMs": 263044,
+   "escena": 5
+  },
+  {
+   "text": "años,",
+   "startMs": 263044,
+   "endMs": 263396,
+   "escena": 5
+  },
+  {
+   "text": "así",
+   "startMs": 263556,
+   "endMs": 263908,
+   "escena": 5
+  },
+  {
+   "text": "que",
+   "startMs": 263908,
+   "endMs": 264083,
+   "escena": 5
+  },
+  {
+   "text": "todavía",
+   "startMs": 264083,
+   "endMs": 264611,
+   "escena": 5
+  },
+  {
+   "text": "no",
+   "startMs": 264611,
+   "endMs": 264787,
+   "escena": 5
+  },
+  {
+   "text": "está",
+   "startMs": 264787,
+   "endMs": 265139,
+   "escena": 5
+  },
+  {
+   "text": "en",
+   "startMs": 265139,
+   "endMs": 265315,
+   "escena": 5
+  },
+  {
+   "text": "Medicare.",
+   "startMs": 265315,
+   "endMs": 266019,
+   "escena": 5
+  },
+  {
+   "text": "Para",
+   "startMs": 266359,
+   "endMs": 266710,
+   "escena": 5
+  },
+  {
+   "text": "ella,",
+   "startMs": 266710,
+   "endMs": 267062,
+   "escena": 5
+  },
+  {
+   "text": "este",
+   "startMs": 267222,
+   "endMs": 267574,
+   "escena": 5
+  },
+  {
+   "text": "descuento",
+   "startMs": 267574,
+   "endMs": 268102,
+   "escena": 5
+  },
+  {
+   "text": "empezará",
+   "startMs": 268102,
+   "endMs": 268806,
+   "escena": 5
+  },
+  {
+   "text": "cuando",
+   "startMs": 268806,
+   "endMs": 269157,
+   "escena": 5
+  },
+  {
+   "text": "cumpla",
+   "startMs": 269157,
+   "endMs": 269509,
+   "escena": 5
+  },
+  {
+   "text": "65.",
+   "startMs": 269509,
+   "endMs": 270389,
+   "escena": 5
+  },
+  {
+   "text": "Por",
+   "startMs": 270729,
+   "endMs": 270905,
+   "escena": 5
+  },
+  {
+   "text": "eso",
+   "startMs": 270905,
+   "endMs": 271257,
+   "escena": 5
+  },
+  {
+   "text": "es",
+   "startMs": 271257,
+   "endMs": 271433,
+   "escena": 5
+  },
+  {
+   "text": "importante",
+   "startMs": 271433,
+   "endMs": 272136,
+   "escena": 5
+  },
+  {
+   "text": "que",
+   "startMs": 272136,
+   "endMs": 272312,
+   "escena": 5
+  },
+  {
+   "text": "lo",
+   "startMs": 272312,
+   "endMs": 272488,
+   "escena": 5
+  },
+  {
+   "text": "entienda",
+   "startMs": 272488,
+   "endMs": 273016,
+   "escena": 5
+  },
+  {
+   "text": "ya:",
+   "startMs": 273016,
+   "endMs": 273192,
+   "escena": 5
+  },
+  {
+   "text": "el",
+   "startMs": 273452,
+   "endMs": 273628,
+   "escena": 5
+  },
+  {
+   "text": "cheque",
+   "startMs": 273628,
+   "endMs": 273979,
+   "escena": 5
+  },
+  {
+   "text": "que",
+   "startMs": 273979,
+   "endMs": 274155,
+   "escena": 5
+  },
+  {
+   "text": "le",
+   "startMs": 274155,
+   "endMs": 274331,
+   "escena": 5
+  },
+  {
+   "text": "prometen",
+   "startMs": 274331,
+   "endMs": 274859,
+   "escena": 5
+  },
+  {
+   "text": "no",
+   "startMs": 274859,
+   "endMs": 275035,
+   "escena": 5
+  },
+  {
+   "text": "es",
+   "startMs": 275035,
+   "endMs": 275211,
+   "escena": 5
+  },
+  {
+   "text": "el",
+   "startMs": 275211,
+   "endMs": 275387,
+   "escena": 5
+  },
+  {
+   "text": "que",
+   "startMs": 275387,
+   "endMs": 275563,
+   "escena": 5
+  },
+  {
+   "text": "va",
+   "startMs": 275563,
+   "endMs": 275739,
+   "escena": 5
+  },
+  {
+   "text": "a",
+   "startMs": 275739,
+   "endMs": 275915,
+   "escena": 5
+  },
+  {
+   "text": "ver",
+   "startMs": 275915,
+   "endMs": 276091,
+   "escena": 5
+  },
+  {
+   "text": "en",
+   "startMs": 276091,
+   "endMs": 276266,
+   "escena": 5
+  },
+  {
+   "text": "su",
+   "startMs": 276266,
+   "endMs": 276442,
+   "escena": 5
+  },
+  {
+   "text": "cuenta.",
+   "startMs": 276442,
+   "endMs": 276794,
+   "escena": 5
+  },
+  {
+   "text": "Un",
+   "startMs": 277484,
+   "endMs": 277660,
+   "escena": 5
+  },
+  {
+   "text": "consejo",
+   "startMs": 277660,
+   "endMs": 278188,
+   "escena": 5
+  },
+  {
+   "text": "práctico:",
+   "startMs": 278188,
+   "endMs": 278716,
+   "escena": 5
+  },
+  {
+   "text": "cuando",
+   "startMs": 278976,
+   "endMs": 279327,
+   "escena": 5
+  },
+  {
+   "text": "te",
+   "startMs": 279327,
+   "endMs": 279503,
+   "escena": 5
+  },
+  {
+   "text": "llegue",
+   "startMs": 279503,
+   "endMs": 279855,
+   "escena": 5
+  },
+  {
+   "text": "la",
+   "startMs": 279855,
+   "endMs": 280031,
+   "escena": 5
+  },
+  {
+   "text": "carta",
+   "startMs": 280031,
+   "endMs": 280383,
+   "escena": 5
+  },
+  {
+   "text": "del",
+   "startMs": 280383,
+   "endMs": 280559,
+   "escena": 5
+  },
+  {
+   "text": "Seguro",
+   "startMs": 280559,
+   "endMs": 281087,
+   "escena": 5
+  },
+  {
+   "text": "Social",
+   "startMs": 281087,
+   "endMs": 281439,
+   "escena": 5
+  },
+  {
+   "text": "en",
+   "startMs": 281439,
+   "endMs": 281614,
+   "escena": 5
+  },
+  {
+   "text": "diciembre,",
+   "startMs": 281614,
+   "endMs": 282142,
+   "escena": 5
+  },
+  {
+   "text": "no",
+   "startMs": 282302,
+   "endMs": 282478,
+   "escena": 5
+  },
+  {
+   "text": "mires",
+   "startMs": 282478,
+   "endMs": 282830,
+   "escena": 5
+  },
+  {
+   "text": "solo",
+   "startMs": 282830,
+   "endMs": 283182,
+   "escena": 5
+  },
+  {
+   "text": "la",
+   "startMs": 283182,
+   "endMs": 283358,
+   "escena": 5
+  },
+  {
+   "text": "cifra",
+   "startMs": 283358,
+   "endMs": 283710,
+   "escena": 5
+  },
+  {
+   "text": "grande.",
+   "startMs": 283710,
+   "endMs": 284061,
+   "escena": 5
+  },
+  {
+   "text": "Busca",
+   "startMs": 284401,
+   "endMs": 284753,
+   "escena": 5
+  },
+  {
+   "text": "la",
+   "startMs": 284753,
+   "endMs": 284929,
+   "escena": 5
+  },
+  {
+   "text": "línea",
+   "startMs": 284929,
+   "endMs": 285281,
+   "escena": 5
+  },
+  {
+   "text": "de",
+   "startMs": 285281,
+   "endMs": 285457,
+   "escena": 5
+  },
+  {
+   "text": "las",
+   "startMs": 285457,
+   "endMs": 285633,
+   "escena": 5
+  },
+  {
+   "text": "deducciones.",
+   "startMs": 285633,
+   "endMs": 286337,
+   "escena": 5
+  },
+  {
+   "text": "Ahí",
+   "startMs": 286677,
+   "endMs": 287028,
+   "escena": 5
+  },
+  {
+   "text": "verás",
+   "startMs": 287028,
+   "endMs": 287380,
+   "escena": 5
+  },
+  {
+   "text": "exactamente",
+   "startMs": 287380,
+   "endMs": 288260,
+   "escena": 5
+  },
+  {
+   "text": "cuánto",
+   "startMs": 288260,
+   "endMs": 288612,
+   "escena": 5
+  },
+  {
+   "text": "se",
+   "startMs": 288612,
+   "endMs": 288788,
+   "escena": 5
+  },
+  {
+   "text": "lleva",
+   "startMs": 288788,
+   "endMs": 289139,
+   "escena": 5
+  },
+  {
+   "text": "Medicare.",
+   "startMs": 289139,
+   "endMs": 289843,
+   "escena": 5
+  },
+  {
+   "text": "Ahora,",
+   "startMs": 290683,
+   "endMs": 291211,
+   "escena": 6
+  },
+  {
+   "text": "la",
+   "startMs": 291371,
+   "endMs": 291547,
+   "escena": 6
+  },
+  {
+   "text": "parte",
+   "startMs": 291547,
+   "endMs": 291899,
+   "escena": 6
+  },
+  {
+   "text": "que",
+   "startMs": 291899,
+   "endMs": 292075,
+   "escena": 6
+  },
+  {
+   "text": "de",
+   "startMs": 292075,
+   "endMs": 292250,
+   "escena": 6
+  },
+  {
+   "text": "verdad",
+   "startMs": 292250,
+   "endMs": 292602,
+   "escena": 6
+  },
+  {
+   "text": "te",
+   "startMs": 292602,
+   "endMs": 292778,
+   "escena": 6
+  },
+  {
+   "text": "puede",
+   "startMs": 292778,
+   "endMs": 293130,
+   "escena": 6
+  },
+  {
+   "text": "ahorrar",
+   "startMs": 293130,
+   "endMs": 293658,
+   "escena": 6
+  },
+  {
+   "text": "dinero.",
+   "startMs": 293658,
+   "endMs": 294186,
+   "escena": 6
+  },
+  {
+   "text": "Ahora",
+   "startMs": 294526,
+   "endMs": 295053,
+   "escena": 6
+  },
+  {
+   "text": "mismo",
+   "startMs": 295053,
+   "endMs": 295405,
+   "escena": 6
+  },
+  {
+   "text": "estamos",
+   "startMs": 295405,
+   "endMs": 295933,
+   "escena": 6
+  },
+  {
+   "text": "en",
+   "startMs": 295933,
+   "endMs": 296109,
+   "escena": 6
+  },
+  {
+   "text": "el",
+   "startMs": 296109,
+   "endMs": 296285,
+   "escena": 6
+  },
+  {
+   "text": "periodo",
+   "startMs": 296285,
+   "endMs": 296813,
+   "escena": 6
+  },
+  {
+   "text": "de",
+   "startMs": 296813,
+   "endMs": 296988,
+   "escena": 6
+  },
+  {
+   "text": "inscripción",
+   "startMs": 296988,
+   "endMs": 297516,
+   "escena": 6
+  },
+  {
+   "text": "abierta",
+   "startMs": 297516,
+   "endMs": 298044,
+   "escena": 6
+  },
+  {
+   "text": "de",
+   "startMs": 298044,
+   "endMs": 298220,
+   "escena": 6
+  },
+  {
+   "text": "Medicare,",
+   "startMs": 298220,
+   "endMs": 298924,
+   "escena": 6
+  },
+  {
+   "text": "que",
+   "startMs": 299084,
+   "endMs": 299260,
+   "escena": 6
+  },
+  {
+   "text": "va",
+   "startMs": 299260,
+   "endMs": 299435,
+   "escena": 6
+  },
+  {
+   "text": "del",
+   "startMs": 299435,
+   "endMs": 299611,
+   "escena": 6
+  },
+  {
+   "text": "15",
+   "startMs": 299611,
+   "endMs": 300491,
+   "escena": 6
+  },
+  {
+   "text": "de",
+   "startMs": 300491,
+   "endMs": 300667,
+   "escena": 6
+  },
+  {
+   "text": "octubre",
+   "startMs": 300667,
+   "endMs": 301195,
+   "escena": 6
+  },
+  {
+   "text": "al",
+   "startMs": 301195,
+   "endMs": 301371,
+   "escena": 6
+  },
+  {
+   "text": "7",
+   "startMs": 301371,
+   "endMs": 301898,
+   "escena": 6
+  },
+  {
+   "text": "de",
+   "startMs": 301898,
+   "endMs": 302074,
+   "escena": 6
+  },
+  {
+   "text": "diciembre.",
+   "startMs": 302074,
+   "endMs": 302602,
+   "escena": 6
+  },
+  {
+   "text": "Este",
+   "startMs": 303292,
+   "endMs": 303644,
+   "escena": 6
+  },
+  {
+   "text": "año,",
+   "startMs": 303644,
+   "endMs": 303996,
+   "escena": 6
+  },
+  {
+   "text": "las",
+   "startMs": 304156,
+   "endMs": 304332,
+   "escena": 6
+  },
+  {
+   "text": "primas",
+   "startMs": 304332,
+   "endMs": 304683,
+   "escena": 6
+  },
+  {
+   "text": "mensuales",
+   "startMs": 304683,
+   "endMs": 305211,
+   "escena": 6
+  },
+  {
+   "text": "de",
+   "startMs": 305211,
+   "endMs": 305387,
+   "escena": 6
+  },
+  {
+   "text": "algunos",
+   "startMs": 305387,
+   "endMs": 305915,
+   "escena": 6
+  },
+  {
+   "text": "planes",
+   "startMs": 305915,
+   "endMs": 306267,
+   "escena": 6
+  },
+  {
+   "text": "de",
+   "startMs": 306267,
+   "endMs": 306443,
+   "escena": 6
+  },
+  {
+   "text": "medicamentos,",
+   "startMs": 306443,
+   "endMs": 307322,
+   "escena": 6
+  },
+  {
+   "text": "la",
+   "startMs": 307482,
+   "endMs": 307658,
+   "escena": 6
+  },
+  {
+   "text": "Parte",
+   "startMs": 307658,
+   "endMs": 308010,
+   "escena": 6
+  },
+  {
+   "text": "D,",
+   "startMs": 308010,
+   "endMs": 308186,
+   "escena": 6
+  },
+  {
+   "text": "suben",
+   "startMs": 308346,
+   "endMs": 308698,
+   "escena": 6
+  },
+  {
+   "text": "50",
+   "startMs": 308698,
+   "endMs": 309226,
+   "escena": 6
+  },
+  {
+   "text": "dólares",
+   "startMs": 309226,
+   "endMs": 309753,
+   "escena": 6
+  },
+  {
+   "text": "o",
+   "startMs": 309753,
+   "endMs": 309929,
+   "escena": 6
+  },
+  {
+   "text": "más.",
+   "startMs": 309929,
+   "endMs": 310105,
+   "escena": 6
+  },
+  {
+   "text": "Y",
+   "startMs": 310445,
+   "endMs": 310621,
+   "escena": 6
+  },
+  {
+   "text": "en",
+   "startMs": 310621,
+   "endMs": 310797,
+   "escena": 6
+  },
+  {
+   "text": "muchos",
+   "startMs": 310797,
+   "endMs": 311149,
+   "escena": 6
+  },
+  {
+   "text": "planes",
+   "startMs": 311149,
+   "endMs": 311501,
+   "escena": 6
+  },
+  {
+   "text": "Medicare",
+   "startMs": 311501,
+   "endMs": 312204,
+   "escena": 6
+  },
+  {
+   "text": "Advantage",
+   "startMs": 312204,
+   "endMs": 312908,
+   "escena": 6
+  },
+  {
+   "text": "suben",
+   "startMs": 312908,
+   "endMs": 313260,
+   "escena": 6
+  },
+  {
+   "text": "los",
+   "startMs": 313260,
+   "endMs": 313436,
+   "escena": 6
+  },
+  {
+   "text": "costos",
+   "startMs": 313436,
+   "endMs": 313788,
+   "escena": 6
+  },
+  {
+   "text": "y",
+   "startMs": 313788,
+   "endMs": 313964,
+   "escena": 6
+  },
+  {
+   "text": "se",
+   "startMs": 313964,
+   "endMs": 314139,
+   "escena": 6
+  },
+  {
+   "text": "recortan",
+   "startMs": 314139,
+   "endMs": 314667,
+   "escena": 6
+  },
+  {
+   "text": "beneficios",
+   "startMs": 314667,
+   "endMs": 315371,
+   "escena": 6
+  },
+  {
+   "text": "extra.",
+   "startMs": 315371,
+   "endMs": 315723,
+   "escena": 6
+  },
+  {
+   "text": "La",
+   "startMs": 316413,
+   "endMs": 316589,
+   "escena": 6
+  },
+  {
+   "text": "buena",
+   "startMs": 316589,
+   "endMs": 316940,
+   "escena": 6
+  },
+  {
+   "text": "noticia",
+   "startMs": 316940,
+   "endMs": 317468,
+   "escena": 6
+  },
+  {
+   "text": "es",
+   "startMs": 317468,
+   "endMs": 317644,
+   "escena": 6
+  },
+  {
+   "text": "que",
+   "startMs": 317644,
+   "endMs": 317820,
+   "escena": 6
+  },
+  {
+   "text": "hay",
+   "startMs": 317820,
+   "endMs": 317996,
+   "escena": 6
+  },
+  {
+   "text": "opciones",
+   "startMs": 317996,
+   "endMs": 318524,
+   "escena": 6
+  },
+  {
+   "text": "más",
+   "startMs": 318524,
+   "endMs": 318700,
+   "escena": 6
+  },
+  {
+   "text": "baratas",
+   "startMs": 318700,
+   "endMs": 319227,
+   "escena": 6
+  },
+  {
+   "text": "para",
+   "startMs": 319227,
+   "endMs": 319579,
+   "escena": 6
+  },
+  {
+   "text": "quien",
+   "startMs": 319579,
+   "endMs": 319755,
+   "escena": 6
+  },
+  {
+   "text": "compara.",
+   "startMs": 319755,
+   "endMs": 320283,
+   "escena": 6
+  },
+  {
+   "text": "Si",
+   "startMs": 320623,
+   "endMs": 320799,
+   "escena": 6
+  },
+  {
+   "text": "no",
+   "startMs": 320799,
+   "endMs": 320975,
+   "escena": 6
+  },
+  {
+   "text": "haces",
+   "startMs": 320975,
+   "endMs": 321327,
+   "escena": 6
+  },
+  {
+   "text": "nada,",
+   "startMs": 321327,
+   "endMs": 321678,
+   "escena": 6
+  },
+  {
+   "text": "tu",
+   "startMs": 321838,
+   "endMs": 322014,
+   "escena": 6
+  },
+  {
+   "text": "plan",
+   "startMs": 322014,
+   "endMs": 322190,
+   "escena": 6
+  },
+  {
+   "text": "se",
+   "startMs": 322190,
+   "endMs": 322366,
+   "escena": 6
+  },
+  {
+   "text": "renueva",
+   "startMs": 322366,
+   "endMs": 322894,
+   "escena": 6
+  },
+  {
+   "text": "solo,",
+   "startMs": 322894,
+   "endMs": 323246,
+   "escena": 6
+  },
+  {
+   "text": "con",
+   "startMs": 323406,
+   "endMs": 323582,
+   "escena": 6
+  },
+  {
+   "text": "sus",
+   "startMs": 323582,
+   "endMs": 323758,
+   "escena": 6
+  },
+  {
+   "text": "nuevos",
+   "startMs": 323758,
+   "endMs": 324110,
+   "escena": 6
+  },
+  {
+   "text": "precios.",
+   "startMs": 324110,
+   "endMs": 324461,
+   "escena": 6
+  },
+  {
+   "text": "Rosa",
+   "startMs": 325151,
+   "endMs": 325503,
+   "escena": 6
+  },
+  {
+   "text": "hizo",
+   "startMs": 325503,
+   "endMs": 325855,
+   "escena": 6
+  },
+  {
+   "text": "la",
+   "startMs": 325855,
+   "endMs": 326031,
+   "escena": 6
+  },
+  {
+   "text": "prueba:",
+   "startMs": 326031,
+   "endMs": 326383,
+   "escena": 6
+  },
+  {
+   "text": "entró",
+   "startMs": 326643,
+   "endMs": 326995,
+   "escena": 6
+  },
+  {
+   "text": "en",
+   "startMs": 326995,
+   "endMs": 327171,
+   "escena": 6
+  },
+  {
+   "text": "medicare.gov,",
+   "startMs": 327171,
+   "endMs": 328050,
+   "escena": 6
+  },
+  {
+   "text": "metió",
+   "startMs": 328210,
+   "endMs": 328562,
+   "escena": 6
+  },
+  {
+   "text": "sus",
+   "startMs": 328562,
+   "endMs": 328738,
+   "escena": 6
+  },
+  {
+   "text": "medicinas",
+   "startMs": 328738,
+   "endMs": 329442,
+   "escena": 6
+  },
+  {
+   "text": "en",
+   "startMs": 329442,
+   "endMs": 329618,
+   "escena": 6
+  },
+  {
+   "text": "el",
+   "startMs": 329618,
+   "endMs": 329793,
+   "escena": 6
+  },
+  {
+   "text": "buscador",
+   "startMs": 329793,
+   "endMs": 330321,
+   "escena": 6
+  },
+  {
+   "text": "de",
+   "startMs": 330321,
+   "endMs": 330497,
+   "escena": 6
+  },
+  {
+   "text": "planes",
+   "startMs": 330497,
+   "endMs": 330849,
+   "escena": 6
+  },
+  {
+   "text": "y",
+   "startMs": 330849,
+   "endMs": 331025,
+   "escena": 6
+  },
+  {
+   "text": "encontró",
+   "startMs": 331025,
+   "endMs": 331553,
+   "escena": 6
+  },
+  {
+   "text": "uno",
+   "startMs": 331553,
+   "endMs": 331904,
+   "escena": 6
+  },
+  {
+   "text": "que",
+   "startMs": 331904,
+   "endMs": 332080,
+   "escena": 6
+  },
+  {
+   "text": "le",
+   "startMs": 332080,
+   "endMs": 332256,
+   "escena": 6
+  },
+  {
+   "text": "salía",
+   "startMs": 332256,
+   "endMs": 332608,
+   "escena": 6
+  },
+  {
+   "text": "más",
+   "startMs": 332608,
+   "endMs": 332784,
+   "escena": 6
+  },
+  {
+   "text": "barato",
+   "startMs": 332784,
+   "endMs": 333312,
+   "escena": 6
+  },
+  {
+   "text": "que",
+   "startMs": 333312,
+   "endMs": 333488,
+   "escena": 6
+  },
+  {
+   "text": "el",
+   "startMs": 333488,
+   "endMs": 333664,
+   "escena": 6
+  },
+  {
+   "text": "suyo.",
+   "startMs": 333664,
+   "endMs": 333840,
+   "escena": 6
+  },
+  {
+   "text": "Le",
+   "startMs": 334180,
+   "endMs": 334356,
+   "escena": 6
+  },
+  {
+   "text": "llevó",
+   "startMs": 334356,
+   "endMs": 334707,
+   "escena": 6
+  },
+  {
+   "text": "media",
+   "startMs": 334707,
+   "endMs": 335059,
+   "escena": 6
+  },
+  {
+   "text": "hora.",
+   "startMs": 335059,
+   "endMs": 335411,
+   "escena": 6
+  },
+  {
+   "text": "Cuando",
+   "startMs": 336101,
+   "endMs": 336453,
+   "escena": 6
+  },
+  {
+   "text": "compares,",
+   "startMs": 336453,
+   "endMs": 336981,
+   "escena": 6
+  },
+  {
+   "text": "fíjate",
+   "startMs": 337141,
+   "endMs": 337668,
+   "escena": 6
+  },
+  {
+   "text": "en",
+   "startMs": 337668,
+   "endMs": 337844,
+   "escena": 6
+  },
+  {
+   "text": "tres",
+   "startMs": 337844,
+   "endMs": 338020,
+   "escena": 6
+  },
+  {
+   "text": "cosas:",
+   "startMs": 338020,
+   "endMs": 338372,
+   "escena": 6
+  },
+  {
+   "text": "que",
+   "startMs": 338632,
+   "endMs": 338808,
+   "escena": 6
+  },
+  {
+   "text": "tus",
+   "startMs": 338808,
+   "endMs": 338984,
+   "escena": 6
+  },
+  {
+   "text": "medicinas",
+   "startMs": 338984,
+   "endMs": 339688,
+   "escena": 6
+  },
+  {
+   "text": "estén",
+   "startMs": 339688,
+   "endMs": 340039,
+   "escena": 6
+  },
+  {
+   "text": "cubiertas,",
+   "startMs": 340039,
+   "endMs": 340567,
+   "escena": 6
+  },
+  {
+   "text": "que",
+   "startMs": 340727,
+   "endMs": 340903,
+   "escena": 6
+  },
+  {
+   "text": "tus",
+   "startMs": 340903,
+   "endMs": 341079,
+   "escena": 6
+  },
+  {
+   "text": "médicos",
+   "startMs": 341079,
+   "endMs": 341607,
+   "escena": 6
+  },
+  {
+   "text": "y",
+   "startMs": 341607,
+   "endMs": 341783,
+   "escena": 6
+  },
+  {
+   "text": "tu",
+   "startMs": 341783,
+   "endMs": 341959,
+   "escena": 6
+  },
+  {
+   "text": "farmacia",
+   "startMs": 341959,
+   "endMs": 342486,
+   "escena": 6
+  },
+  {
+   "text": "estén",
+   "startMs": 342486,
+   "endMs": 342838,
+   "escena": 6
+  },
+  {
+   "text": "en",
+   "startMs": 342838,
+   "endMs": 343014,
+   "escena": 6
+  },
+  {
+   "text": "la",
+   "startMs": 343014,
+   "endMs": 343190,
+   "escena": 6
+  },
+  {
+   "text": "red",
+   "startMs": 343190,
+   "endMs": 343366,
+   "escena": 6
+  },
+  {
+   "text": "del",
+   "startMs": 343366,
+   "endMs": 343542,
+   "escena": 6
+  },
+  {
+   "text": "plan,",
+   "startMs": 343542,
+   "endMs": 343718,
+   "escena": 6
+  },
+  {
+   "text": "y",
+   "startMs": 343878,
+   "endMs": 344054,
+   "escena": 6
+  },
+  {
+   "text": "cuánto",
+   "startMs": 344054,
+   "endMs": 344406,
+   "escena": 6
+  },
+  {
+   "text": "pagarías",
+   "startMs": 344406,
+   "endMs": 344933,
+   "escena": 6
+  },
+  {
+   "text": "en",
+   "startMs": 344933,
+   "endMs": 345109,
+   "escena": 6
+  },
+  {
+   "text": "total",
+   "startMs": 345109,
+   "endMs": 345461,
+   "escena": 6
+  },
+  {
+   "text": "en",
+   "startMs": 345461,
+   "endMs": 345637,
+   "escena": 6
+  },
+  {
+   "text": "el",
+   "startMs": 345637,
+   "endMs": 345813,
+   "escena": 6
+  },
+  {
+   "text": "año,",
+   "startMs": 345813,
+   "endMs": 346165,
+   "escena": 6
+  },
+  {
+   "text": "no",
+   "startMs": 346325,
+   "endMs": 346501,
+   "escena": 6
+  },
+  {
+   "text": "solo",
+   "startMs": 346501,
+   "endMs": 346853,
+   "escena": 6
+  },
+  {
+   "text": "la",
+   "startMs": 346853,
+   "endMs": 347028,
+   "escena": 6
+  },
+  {
+   "text": "prima",
+   "startMs": 347028,
+   "endMs": 347380,
+   "escena": 6
+  },
+  {
+   "text": "mensual.",
+   "startMs": 347380,
+   "endMs": 347732,
+   "escena": 6
+  },
+  {
+   "text": "Un",
+   "startMs": 348072,
+   "endMs": 348248,
+   "escena": 6
+  },
+  {
+   "text": "plan",
+   "startMs": 348248,
+   "endMs": 348424,
+   "escena": 6
+  },
+  {
+   "text": "con",
+   "startMs": 348424,
+   "endMs": 348600,
+   "escena": 6
+  },
+  {
+   "text": "prima",
+   "startMs": 348600,
+   "endMs": 348952,
+   "escena": 6
+  },
+  {
+   "text": "de",
+   "startMs": 348952,
+   "endMs": 349128,
+   "escena": 6
+  },
+  {
+   "text": "cero",
+   "startMs": 349128,
+   "endMs": 349480,
+   "escena": 6
+  },
+  {
+   "text": "puede",
+   "startMs": 349480,
+   "endMs": 349831,
+   "escena": 6
+  },
+  {
+   "text": "salirte",
+   "startMs": 349831,
+   "endMs": 350359,
+   "escena": 6
+  },
+  {
+   "text": "más",
+   "startMs": 350359,
+   "endMs": 350535,
+   "escena": 6
+  },
+  {
+   "text": "caro",
+   "startMs": 350535,
+   "endMs": 350887,
+   "escena": 6
+  },
+  {
+   "text": "si",
+   "startMs": 350887,
+   "endMs": 351063,
+   "escena": 6
+  },
+  {
+   "text": "tus",
+   "startMs": 351063,
+   "endMs": 351239,
+   "escena": 6
+  },
+  {
+   "text": "medicinas",
+   "startMs": 351239,
+   "endMs": 351942,
+   "escena": 6
+  },
+  {
+   "text": "no",
+   "startMs": 351942,
+   "endMs": 352118,
+   "escena": 6
+  },
+  {
+   "text": "están",
+   "startMs": 352118,
+   "endMs": 352470,
+   "escena": 6
+  },
+  {
+   "text": "bien",
+   "startMs": 352470,
+   "endMs": 352646,
+   "escena": 6
+  },
+  {
+   "text": "cubiertas.",
+   "startMs": 352646,
+   "endMs": 353174,
+   "escena": 6
+  },
+  {
+   "text": "Si",
+   "startMs": 353864,
+   "endMs": 354040,
+   "escena": 6
+  },
+  {
+   "text": "no",
+   "startMs": 354040,
+   "endMs": 354216,
+   "escena": 6
+  },
+  {
+   "text": "te",
+   "startMs": 354216,
+   "endMs": 354392,
+   "escena": 6
+  },
+  {
+   "text": "manejas",
+   "startMs": 354392,
+   "endMs": 354919,
+   "escena": 6
+  },
+  {
+   "text": "con",
+   "startMs": 354919,
+   "endMs": 355095,
+   "escena": 6
+  },
+  {
+   "text": "la",
+   "startMs": 355095,
+   "endMs": 355271,
+   "escena": 6
+  },
+  {
+   "text": "computadora,",
+   "startMs": 355271,
+   "endMs": 356151,
+   "escena": 6
+  },
+  {
+   "text": "en",
+   "startMs": 356311,
+   "endMs": 356487,
+   "escena": 6
+  },
+  {
+   "text": "cada",
+   "startMs": 356487,
+   "endMs": 356839,
+   "escena": 6
+  },
+  {
+   "text": "estado",
+   "startMs": 356839,
+   "endMs": 357366,
+   "escena": 6
+  },
+  {
+   "text": "hay",
+   "startMs": 357366,
+   "endMs": 357542,
+   "escena": 6
+  },
+  {
+   "text": "un",
+   "startMs": 357542,
+   "endMs": 357718,
+   "escena": 6
+  },
+  {
+   "text": "programa",
+   "startMs": 357718,
+   "endMs": 358246,
+   "escena": 6
+  },
+  {
+   "text": "gratuito",
+   "startMs": 358246,
+   "endMs": 358774,
+   "escena": 6
+  },
+  {
+   "text": "de",
+   "startMs": 358774,
+   "endMs": 358950,
+   "escena": 6
+  },
+  {
+   "text": "consejería",
+   "startMs": 358950,
+   "endMs": 359653,
+   "escena": 6
+  },
+  {
+   "text": "de",
+   "startMs": 359653,
+   "endMs": 359829,
+   "escena": 6
+  },
+  {
+   "text": "Medicare,",
+   "startMs": 359829,
+   "endMs": 360533,
+   "escena": 6
+  },
+  {
+   "text": "llamado",
+   "startMs": 360693,
+   "endMs": 361221,
+   "escena": 6
+  },
+  {
+   "text": "SHIP,",
+   "startMs": 361221,
+   "endMs": 361397,
+   "escena": 6
+  },
+  {
+   "text": "que",
+   "startMs": 361557,
+   "endMs": 361732,
+   "escena": 6
+  },
+  {
+   "text": "te",
+   "startMs": 361732,
+   "endMs": 361908,
+   "escena": 6
+  },
+  {
+   "text": "ayuda",
+   "startMs": 361908,
+   "endMs": 362260,
+   "escena": 6
+  },
+  {
+   "text": "a",
+   "startMs": 362260,
+   "endMs": 362436,
+   "escena": 6
+  },
+  {
+   "text": "comparar.",
+   "startMs": 362436,
+   "endMs": 362964,
+   "escena": 6
+  },
+  {
+   "text": "También",
+   "startMs": 363304,
+   "endMs": 363656,
+   "escena": 6
+  },
+  {
+   "text": "puedes",
+   "startMs": 363656,
+   "endMs": 364008,
+   "escena": 6
+  },
+  {
+   "text": "llamar",
+   "startMs": 364008,
+   "endMs": 364359,
+   "escena": 6
+  },
+  {
+   "text": "al",
+   "startMs": 364359,
+   "endMs": 364535,
+   "escena": 6
+  },
+  {
+   "text": "1-800-MEDICARE",
+   "startMs": 364535,
+   "endMs": 366295,
+   "escena": 6
+  },
+  {
+   "text": "y",
+   "startMs": 366295,
+   "endMs": 366470,
+   "escena": 6
+  },
+  {
+   "text": "pedir",
+   "startMs": 366470,
+   "endMs": 366822,
+   "escena": 6
+  },
+  {
+   "text": "atención",
+   "startMs": 366822,
+   "endMs": 367350,
+   "escena": 6
+  },
+  {
+   "text": "en",
+   "startMs": 367350,
+   "endMs": 367526,
+   "escena": 6
+  },
+  {
+   "text": "español.",
+   "startMs": 367526,
+   "endMs": 368054,
+   "escena": 6
+  },
+  {
+   "text": "Si",
+   "startMs": 368894,
+   "endMs": 369070,
+   "escena": 7
+  },
+  {
+   "text": "todavía",
+   "startMs": 369070,
+   "endMs": 369597,
+   "escena": 7
+  },
+  {
+   "text": "trabajas,",
+   "startMs": 369597,
+   "endMs": 370125,
+   "escena": 7
+  },
+  {
+   "text": "también",
+   "startMs": 370285,
+   "endMs": 370637,
+   "escena": 7
+  },
+  {
+   "text": "hay",
+   "startMs": 370637,
+   "endMs": 370813,
+   "escena": 7
+  },
+  {
+   "text": "cambios",
+   "startMs": 370813,
+   "endMs": 371165,
+   "escena": 7
+  },
+  {
+   "text": "para",
+   "startMs": 371165,
+   "endMs": 371517,
+   "escena": 7
+  },
+  {
+   "text": "ti.",
+   "startMs": 371517,
+   "endMs": 371693,
+   "escena": 7
+  },
+  {
+   "text": "El",
+   "startMs": 372383,
+   "endMs": 372559,
+   "escena": 7
+  },
+  {
+   "text": "salario",
+   "startMs": 372559,
+   "endMs": 373086,
+   "escena": 7
+  },
+  {
+   "text": "máximo",
+   "startMs": 373086,
+   "endMs": 373614,
+   "escena": 7
+  },
+  {
+   "text": "sobre",
+   "startMs": 373614,
+   "endMs": 373966,
+   "escena": 7
+  },
+  {
+   "text": "el",
+   "startMs": 373966,
+   "endMs": 374142,
+   "escena": 7
+  },
+  {
+   "text": "que",
+   "startMs": 374142,
+   "endMs": 374318,
+   "escena": 7
+  },
+  {
+   "text": "se",
+   "startMs": 374318,
+   "endMs": 374494,
+   "escena": 7
+  },
+  {
+   "text": "paga",
+   "startMs": 374494,
+   "endMs": 374845,
+   "escena": 7
+  },
+  {
+   "text": "el",
+   "startMs": 374845,
+   "endMs": 375021,
+   "escena": 7
+  },
+  {
+   "text": "impuesto",
+   "startMs": 375021,
+   "endMs": 375549,
+   "escena": 7
+  },
+  {
+   "text": "del",
+   "startMs": 375549,
+   "endMs": 375725,
+   "escena": 7
+  },
+  {
+   "text": "Seguro",
+   "startMs": 375725,
+   "endMs": 376253,
+   "escena": 7
+  },
+  {
+   "text": "Social",
+   "startMs": 376253,
+   "endMs": 376605,
+   "escena": 7
+  },
+  {
+   "text": "sube",
+   "startMs": 376605,
+   "endMs": 376957,
+   "escena": 7
+  },
+  {
+   "text": "a",
+   "startMs": 376957,
+   "endMs": 377132,
+   "escena": 7
+  },
+  {
+   "text": "192.300",
+   "startMs": 377132,
+   "endMs": 378716,
+   "escena": 7
+  },
+  {
+   "text": "dólares,",
+   "startMs": 378716,
+   "endMs": 379243,
+   "escena": 7
+  },
+  {
+   "text": "desde",
+   "startMs": 379403,
+   "endMs": 379755,
+   "escena": 7
+  },
+  {
+   "text": "184.500.",
+   "startMs": 379755,
+   "endMs": 381339,
+   "escena": 7
+  },
+  {
+   "text": "Si",
+   "startMs": 381679,
+   "endMs": 381855,
+   "escena": 7
+  },
+  {
+   "text": "ganas",
+   "startMs": 381855,
+   "endMs": 382206,
+   "escena": 7
+  },
+  {
+   "text": "por",
+   "startMs": 382206,
+   "endMs": 382382,
+   "escena": 7
+  },
+  {
+   "text": "encima",
+   "startMs": 382382,
+   "endMs": 382910,
+   "escena": 7
+  },
+  {
+   "text": "de",
+   "startMs": 382910,
+   "endMs": 383086,
+   "escena": 7
+  },
+  {
+   "text": "esa",
+   "startMs": 383086,
+   "endMs": 383438,
+   "escena": 7
+  },
+  {
+   "text": "cifra,",
+   "startMs": 383438,
+   "endMs": 383790,
+   "escena": 7
+  },
+  {
+   "text": "pagarás",
+   "startMs": 383950,
+   "endMs": 384477,
+   "escena": 7
+  },
+  {
+   "text": "ese",
+   "startMs": 384477,
+   "endMs": 384829,
+   "escena": 7
+  },
+  {
+   "text": "impuesto",
+   "startMs": 384829,
+   "endMs": 385357,
+   "escena": 7
+  },
+  {
+   "text": "sobre",
+   "startMs": 385357,
+   "endMs": 385709,
+   "escena": 7
+  },
+  {
+   "text": "una",
+   "startMs": 385709,
+   "endMs": 386061,
+   "escena": 7
+  },
+  {
+   "text": "parte",
+   "startMs": 386061,
+   "endMs": 386413,
+   "escena": 7
+  },
+  {
+   "text": "mayor",
+   "startMs": 386413,
+   "endMs": 386588,
+   "escena": 7
+  },
+  {
+   "text": "de",
+   "startMs": 386588,
+   "endMs": 386764,
+   "escena": 7
+  },
+  {
+   "text": "tu",
+   "startMs": 386764,
+   "endMs": 386940,
+   "escena": 7
+  },
+  {
+   "text": "sueldo.",
+   "startMs": 386940,
+   "endMs": 387292,
+   "escena": 7
+  },
+  {
+   "text": "Y",
+   "startMs": 387982,
+   "endMs": 388158,
+   "escena": 7
+  },
+  {
+   "text": "hay",
+   "startMs": 388158,
+   "endMs": 388334,
+   "escena": 7
+  },
+  {
+   "text": "un",
+   "startMs": 388334,
+   "endMs": 388510,
+   "escena": 7
+  },
+  {
+   "text": "cambio",
+   "startMs": 388510,
+   "endMs": 388862,
+   "escena": 7
+  },
+  {
+   "text": "histórico:",
+   "startMs": 388862,
+   "endMs": 389565,
+   "escena": 7
+  },
+  {
+   "text": "en",
+   "startMs": 389825,
+   "endMs": 390001,
+   "escena": 7
+  },
+  {
+   "text": "2027",
+   "startMs": 390001,
+   "endMs": 391585,
+   "escena": 7
+  },
+  {
+   "text": "se",
+   "startMs": 391585,
+   "endMs": 391761,
+   "escena": 7
+  },
+  {
+   "text": "completa",
+   "startMs": 391761,
+   "endMs": 392288,
+   "escena": 7
+  },
+  {
+   "text": "la",
+   "startMs": 392288,
+   "endMs": 392464,
+   "escena": 7
+  },
+  {
+   "text": "ley",
+   "startMs": 392464,
+   "endMs": 392640,
+   "escena": 7
+  },
+  {
+   "text": "de",
+   "startMs": 392640,
+   "endMs": 392816,
+   "escena": 7
+  },
+  {
+   "text": "1983",
+   "startMs": 392816,
+   "endMs": 394399,
+   "escena": 7
+  },
+  {
+   "text": "que",
+   "startMs": 394399,
+   "endMs": 394575,
+   "escena": 7
+  },
+  {
+   "text": "fue",
+   "startMs": 394575,
+   "endMs": 394751,
+   "escena": 7
+  },
+  {
+   "text": "subiendo",
+   "startMs": 394751,
+   "endMs": 395279,
+   "escena": 7
+  },
+  {
+   "text": "la",
+   "startMs": 395279,
+   "endMs": 395455,
+   "escena": 7
+  },
+  {
+   "text": "edad",
+   "startMs": 395455,
+   "endMs": 395807,
+   "escena": 7
+  },
+  {
+   "text": "de",
+   "startMs": 395807,
+   "endMs": 395983,
+   "escena": 7
+  },
+  {
+   "text": "jubilación",
+   "startMs": 395983,
+   "endMs": 396686,
+   "escena": 7
+  },
+  {
+   "text": "completa.",
+   "startMs": 396686,
+   "endMs": 397214,
+   "escena": 7
+  },
+  {
+   "text": "Para",
+   "startMs": 397554,
+   "endMs": 397906,
+   "escena": 7
+  },
+  {
+   "text": "quien",
+   "startMs": 397906,
+   "endMs": 398082,
+   "escena": 7
+  },
+  {
+   "text": "nació",
+   "startMs": 398082,
+   "endMs": 398434,
+   "escena": 7
+  },
+  {
+   "text": "en",
+   "startMs": 398434,
+   "endMs": 398610,
+   "escena": 7
+  },
+  {
+   "text": "1960",
+   "startMs": 398610,
+   "endMs": 399841,
+   "escena": 7
+  },
+  {
+   "text": "o",
+   "startMs": 399841,
+   "endMs": 400017,
+   "escena": 7
+  },
+  {
+   "text": "después,",
+   "startMs": 400017,
+   "endMs": 400369,
+   "escena": 7
+  },
+  {
+   "text": "esa",
+   "startMs": 400529,
+   "endMs": 400881,
+   "escena": 7
+  },
+  {
+   "text": "edad",
+   "startMs": 400881,
+   "endMs": 401232,
+   "escena": 7
+  },
+  {
+   "text": "queda",
+   "startMs": 401232,
+   "endMs": 401584,
+   "escena": 7
+  },
+  {
+   "text": "fijada",
+   "startMs": 401584,
+   "endMs": 402112,
+   "escena": 7
+  },
+  {
+   "text": "en",
+   "startMs": 402112,
+   "endMs": 402288,
+   "escena": 7
+  },
+  {
+   "text": "67",
+   "startMs": 402288,
+   "endMs": 403168,
+   "escena": 7
+  },
+  {
+   "text": "años.",
+   "startMs": 403168,
+   "endMs": 403519,
+   "escena": 7
+  },
+  {
+   "text": "¿Qué",
+   "startMs": 404209,
+   "endMs": 404385,
+   "escena": 7
+  },
+  {
+   "text": "significa?",
+   "startMs": 404385,
+   "endMs": 405089,
+   "escena": 7
+  },
+  {
+   "text": "Que",
+   "startMs": 405469,
+   "endMs": 405645,
+   "escena": 7
+  },
+  {
+   "text": "si",
+   "startMs": 405645,
+   "endMs": 405821,
+   "escena": 7
+  },
+  {
+   "text": "pides",
+   "startMs": 405821,
+   "endMs": 406173,
+   "escena": 7
+  },
+  {
+   "text": "tu",
+   "startMs": 406173,
+   "endMs": 406349,
+   "escena": 7
+  },
+  {
+   "text": "beneficio",
+   "startMs": 406349,
+   "endMs": 407052,
+   "escena": 7
+  },
+  {
+   "text": "a",
+   "startMs": 407052,
+   "endMs": 407228,
+   "escena": 7
+  },
+  {
+   "text": "los",
+   "startMs": 407228,
+   "endMs": 407404,
+   "escena": 7
+  },
+  {
+   "text": "62,",
+   "startMs": 407404,
+   "endMs": 408284,
+   "escena": 7
+  },
+  {
+   "text": "cobrarás",
+   "startMs": 408444,
+   "endMs": 408971,
+   "escena": 7
+  },
+  {
+   "text": "menos",
+   "startMs": 408971,
+   "endMs": 409323,
+   "escena": 7
+  },
+  {
+   "text": "de",
+   "startMs": 409323,
+   "endMs": 409499,
+   "escena": 7
+  },
+  {
+   "text": "por",
+   "startMs": 409499,
+   "endMs": 409675,
+   "escena": 7
+  },
+  {
+   "text": "vida.",
+   "startMs": 409675,
+   "endMs": 410027,
+   "escena": 7
+  },
+  {
+   "text": "Y",
+   "startMs": 410367,
+   "endMs": 410543,
+   "escena": 7
+  },
+  {
+   "text": "si",
+   "startMs": 410543,
+   "endMs": 410719,
+   "escena": 7
+  },
+  {
+   "text": "esperas",
+   "startMs": 410719,
+   "endMs": 411247,
+   "escena": 7
+  },
+  {
+   "text": "más",
+   "startMs": 411247,
+   "endMs": 411423,
+   "escena": 7
+  },
+  {
+   "text": "allá",
+   "startMs": 411423,
+   "endMs": 411774,
+   "escena": 7
+  },
+  {
+   "text": "de",
+   "startMs": 411774,
+   "endMs": 411950,
+   "escena": 7
+  },
+  {
+   "text": "los",
+   "startMs": 411950,
+   "endMs": 412126,
+   "escena": 7
+  },
+  {
+   "text": "67,",
+   "startMs": 412126,
+   "endMs": 413006,
+   "escena": 7
+  },
+  {
+   "text": "tu",
+   "startMs": 413166,
+   "endMs": 413342,
+   "escena": 7
+  },
+  {
+   "text": "cheque",
+   "startMs": 413342,
+   "endMs": 413694,
+   "escena": 7
+  },
+  {
+   "text": "crece.",
+   "startMs": 413694,
+   "endMs": 414045,
+   "escena": 7
+  },
+  {
+   "text": "Esa",
+   "startMs": 414385,
+   "endMs": 414737,
+   "escena": 7
+  },
+  {
+   "text": "decisión",
+   "startMs": 414737,
+   "endMs": 415265,
+   "escena": 7
+  },
+  {
+   "text": "vale",
+   "startMs": 415265,
+   "endMs": 415617,
+   "escena": 7
+  },
+  {
+   "text": "miles",
+   "startMs": 415617,
+   "endMs": 415969,
+   "escena": 7
+  },
+  {
+   "text": "de",
+   "startMs": 415969,
+   "endMs": 416145,
+   "escena": 7
+  },
+  {
+   "text": "dólares,",
+   "startMs": 416145,
+   "endMs": 416672,
+   "escena": 7
+  },
+  {
+   "text": "y",
+   "startMs": 416832,
+   "endMs": 417008,
+   "escena": 7
+  },
+  {
+   "text": "le",
+   "startMs": 417008,
+   "endMs": 417184,
+   "escena": 7
+  },
+  {
+   "text": "vamos",
+   "startMs": 417184,
+   "endMs": 417536,
+   "escena": 7
+  },
+  {
+   "text": "a",
+   "startMs": 417536,
+   "endMs": 417712,
+   "escena": 7
+  },
+  {
+   "text": "dedicar",
+   "startMs": 417712,
+   "endMs": 418240,
+   "escena": 7
+  },
+  {
+   "text": "un",
+   "startMs": 418240,
+   "endMs": 418416,
+   "escena": 7
+  },
+  {
+   "text": "vídeo",
+   "startMs": 418416,
+   "endMs": 418767,
+   "escena": 7
+  },
+  {
+   "text": "entero.",
+   "startMs": 418767,
+   "endMs": 419295,
+   "escena": 7
+  },
+  {
+   "text": "Seguro",
+   "startMs": 420135,
+   "endMs": 420663,
+   "escena": 8
+  },
+  {
+   "text": "que",
+   "startMs": 420663,
+   "endMs": 420839,
+   "escena": 8
+  },
+  {
+   "text": "lo",
+   "startMs": 420839,
+   "endMs": 421015,
+   "escena": 8
+  },
+  {
+   "text": "has",
+   "startMs": 421015,
+   "endMs": 421191,
+   "escena": 8
+  },
+  {
+   "text": "oído:",
+   "startMs": 421191,
+   "endMs": 421543,
+   "escena": 8
+  },
+  {
+   "text": "«el",
+   "startMs": 421803,
+   "endMs": 421979,
+   "escena": 8
+  },
+  {
+   "text": "Seguro",
+   "startMs": 421979,
+   "endMs": 422506,
+   "escena": 8
+  },
+  {
+   "text": "Social",
+   "startMs": 422506,
+   "endMs": 422858,
+   "escena": 8
+  },
+  {
+   "text": "se",
+   "startMs": 422858,
+   "endMs": 423034,
+   "escena": 8
+  },
+  {
+   "text": "va",
+   "startMs": 423034,
+   "endMs": 423210,
+   "escena": 8
+  },
+  {
+   "text": "a",
+   "startMs": 423210,
+   "endMs": 423386,
+   "escena": 8
+  },
+  {
+   "text": "quedar",
+   "startMs": 423386,
+   "endMs": 423738,
+   "escena": 8
+  },
+  {
+   "text": "sin",
+   "startMs": 423738,
+   "endMs": 423914,
+   "escena": 8
+  },
+  {
+   "text": "dinero».",
+   "startMs": 423914,
+   "endMs": 424441,
+   "escena": 8
+  },
+  {
+   "text": "Vamos",
+   "startMs": 424781,
+   "endMs": 425133,
+   "escena": 8
+  },
+  {
+   "text": "con",
+   "startMs": 425133,
+   "endMs": 425309,
+   "escena": 8
+  },
+  {
+   "text": "los",
+   "startMs": 425309,
+   "endMs": 425485,
+   "escena": 8
+  },
+  {
+   "text": "datos,",
+   "startMs": 425485,
+   "endMs": 425837,
+   "escena": 8
+  },
+  {
+   "text": "sin",
+   "startMs": 425997,
+   "endMs": 426173,
+   "escena": 8
+  },
+  {
+   "text": "miedo.",
+   "startMs": 426173,
+   "endMs": 426525,
+   "escena": 8
+  },
+  {
+   "text": "Los",
+   "startMs": 427215,
+   "endMs": 427391,
+   "escena": 8
+  },
+  {
+   "text": "fideicomisarios",
+   "startMs": 427391,
+   "endMs": 428446,
+   "escena": 8
+  },
+  {
+   "text": "proyectan",
+   "startMs": 428446,
+   "endMs": 428798,
+   "escena": 8
+  },
+  {
+   "text": "que",
+   "startMs": 428798,
+   "endMs": 428974,
+   "escena": 8
+  },
+  {
+   "text": "el",
+   "startMs": 428974,
+   "endMs": 429150,
+   "escena": 8
+  },
+  {
+   "text": "fondo",
+   "startMs": 429150,
+   "endMs": 429502,
+   "escena": 8
+  },
+  {
+   "text": "de",
+   "startMs": 429502,
+   "endMs": 429678,
+   "escena": 8
+  },
+  {
+   "text": "reserva",
+   "startMs": 429678,
+   "endMs": 430205,
+   "escena": 8
+  },
+  {
+   "text": "de",
+   "startMs": 430205,
+   "endMs": 430381,
+   "escena": 8
+  },
+  {
+   "text": "jubilación",
+   "startMs": 430381,
+   "endMs": 431085,
+   "escena": 8
+  },
+  {
+   "text": "se",
+   "startMs": 431085,
+   "endMs": 431261,
+   "escena": 8
+  },
+  {
+   "text": "agotaría",
+   "startMs": 431261,
+   "endMs": 431965,
+   "escena": 8
+  },
+  {
+   "text": "en",
+   "startMs": 431965,
+   "endMs": 432140,
+   "escena": 8
+  },
+  {
+   "text": "2032,",
+   "startMs": 432140,
+   "endMs": 433724,
+   "escena": 8
+  },
+  {
+   "text": "y",
+   "startMs": 433884,
+   "endMs": 434060,
+   "escena": 8
+  },
+  {
+   "text": "los",
+   "startMs": 434060,
+   "endMs": 434236,
+   "escena": 8
+  },
+  {
+   "text": "fondos",
+   "startMs": 434236,
+   "endMs": 434587,
+   "escena": 8
+  },
+  {
+   "text": "combinados",
+   "startMs": 434587,
+   "endMs": 435291,
+   "escena": 8
+  },
+  {
+   "text": "de",
+   "startMs": 435291,
+   "endMs": 435467,
+   "escena": 8
+  },
+  {
+   "text": "jubilación",
+   "startMs": 435467,
+   "endMs": 436171,
+   "escena": 8
+  },
+  {
+   "text": "e",
+   "startMs": 436171,
+   "endMs": 436347,
+   "escena": 8
+  },
+  {
+   "text": "incapacidad,",
+   "startMs": 436347,
+   "endMs": 437226,
+   "escena": 8
+  },
+  {
+   "text": "en",
+   "startMs": 437386,
+   "endMs": 437562,
+   "escena": 8
+  },
+  {
+   "text": "2034.",
+   "startMs": 437562,
+   "endMs": 439145,
+   "escena": 8
+  },
+  {
+   "text": "Pero",
+   "startMs": 439835,
+   "endMs": 440187,
+   "escena": 8
+  },
+  {
+   "text": "agotar",
+   "startMs": 440187,
+   "endMs": 440715,
+   "escena": 8
+  },
+  {
+   "text": "la",
+   "startMs": 440715,
+   "endMs": 440891,
+   "escena": 8
+  },
+  {
+   "text": "reserva",
+   "startMs": 440891,
+   "endMs": 441419,
+   "escena": 8
+  },
+  {
+   "text": "no",
+   "startMs": 441419,
+   "endMs": 441595,
+   "escena": 8
+  },
+  {
+   "text": "significa",
+   "startMs": 441595,
+   "endMs": 442298,
+   "escena": 8
+  },
+  {
+   "text": "cero",
+   "startMs": 442298,
+   "endMs": 442650,
+   "escena": 8
+  },
+  {
+   "text": "pagos.",
+   "startMs": 442650,
+   "endMs": 443002,
+   "escena": 8
+  },
+  {
+   "text": "Los",
+   "startMs": 443342,
+   "endMs": 443518,
+   "escena": 8
+  },
+  {
+   "text": "trabajadores",
+   "startMs": 443518,
+   "endMs": 444397,
+   "escena": 8
+  },
+  {
+   "text": "siguen",
+   "startMs": 444397,
+   "endMs": 444749,
+   "escena": 8
+  },
+  {
+   "text": "pagando",
+   "startMs": 444749,
+   "endMs": 445277,
+   "escena": 8
+  },
+  {
+   "text": "impuestos",
+   "startMs": 445277,
+   "endMs": 445805,
+   "escena": 8
+  },
+  {
+   "text": "cada",
+   "startMs": 445805,
+   "endMs": 446157,
+   "escena": 8
+  },
+  {
+   "text": "mes,",
+   "startMs": 446157,
+   "endMs": 446333,
+   "escena": 8
+  },
+  {
+   "text": "y",
+   "startMs": 446493,
+   "endMs": 446669,
+   "escena": 8
+  },
+  {
+   "text": "con",
+   "startMs": 446669,
+   "endMs": 446844,
+   "escena": 8
+  },
+  {
+   "text": "ese",
+   "startMs": 446844,
+   "endMs": 447196,
+   "escena": 8
+  },
+  {
+   "text": "dinero",
+   "startMs": 447196,
+   "endMs": 447724,
+   "escena": 8
+  },
+  {
+   "text": "se",
+   "startMs": 447724,
+   "endMs": 447900,
+   "escena": 8
+  },
+  {
+   "text": "seguiría",
+   "startMs": 447900,
+   "endMs": 448428,
+   "escena": 8
+  },
+  {
+   "text": "pagando",
+   "startMs": 448428,
+   "endMs": 448956,
+   "escena": 8
+  },
+  {
+   "text": "la",
+   "startMs": 448956,
+   "endMs": 449131,
+   "escena": 8
+  },
+  {
+   "text": "mayor",
+   "startMs": 449131,
+   "endMs": 449307,
+   "escena": 8
+  },
+  {
+   "text": "parte",
+   "startMs": 449307,
+   "endMs": 449659,
+   "escena": 8
+  },
+  {
+   "text": "de",
+   "startMs": 449659,
+   "endMs": 449835,
+   "escena": 8
+  },
+  {
+   "text": "los",
+   "startMs": 449835,
+   "endMs": 450011,
+   "escena": 8
+  },
+  {
+   "text": "beneficios.",
+   "startMs": 450011,
+   "endMs": 450715,
+   "escena": 8
+  },
+  {
+   "text": "El",
+   "startMs": 451055,
+   "endMs": 451231,
+   "escena": 8
+  },
+  {
+   "text": "riesgo",
+   "startMs": 451231,
+   "endMs": 451582,
+   "escena": 8
+  },
+  {
+   "text": "real",
+   "startMs": 451582,
+   "endMs": 451758,
+   "escena": 8
+  },
+  {
+   "text": "es",
+   "startMs": 451758,
+   "endMs": 451934,
+   "escena": 8
+  },
+  {
+   "text": "un",
+   "startMs": 451934,
+   "endMs": 452110,
+   "escena": 8
+  },
+  {
+   "text": "recorte",
+   "startMs": 452110,
+   "endMs": 452638,
+   "escena": 8
+  },
+  {
+   "text": "si",
+   "startMs": 452638,
+   "endMs": 452814,
+   "escena": 8
+  },
+  {
+   "text": "el",
+   "startMs": 452814,
+   "endMs": 452990,
+   "escena": 8
+  },
+  {
+   "text": "Congreso",
+   "startMs": 452990,
+   "endMs": 453518,
+   "escena": 8
+  },
+  {
+   "text": "no",
+   "startMs": 453518,
+   "endMs": 453694,
+   "escena": 8
+  },
+  {
+   "text": "actúa",
+   "startMs": 453694,
+   "endMs": 454045,
+   "escena": 8
+  },
+  {
+   "text": "antes.",
+   "startMs": 454045,
+   "endMs": 454397,
+   "escena": 8
+  },
+  {
+   "text": "Así",
+   "startMs": 455087,
+   "endMs": 455439,
+   "escena": 8
+  },
+  {
+   "text": "que",
+   "startMs": 455439,
+   "endMs": 455615,
+   "escena": 8
+  },
+  {
+   "text": "no",
+   "startMs": 455615,
+   "endMs": 455791,
+   "escena": 8
+  },
+  {
+   "text": "entres",
+   "startMs": 455791,
+   "endMs": 456143,
+   "escena": 8
+  },
+  {
+   "text": "en",
+   "startMs": 456143,
+   "endMs": 456319,
+   "escena": 8
+  },
+  {
+   "text": "pánico,",
+   "startMs": 456319,
+   "endMs": 456846,
+   "escena": 8
+  },
+  {
+   "text": "pero",
+   "startMs": 457006,
+   "endMs": 457358,
+   "escena": 8
+  },
+  {
+   "text": "tampoco",
+   "startMs": 457358,
+   "endMs": 457886,
+   "escena": 8
+  },
+  {
+   "text": "lo",
+   "startMs": 457886,
+   "endMs": 458062,
+   "escena": 8
+  },
+  {
+   "text": "ignores:",
+   "startMs": 458062,
+   "endMs": 458590,
+   "escena": 8
+  },
+  {
+   "text": "planifica",
+   "startMs": 458850,
+   "endMs": 459553,
+   "escena": 8
+  },
+  {
+   "text": "pensando",
+   "startMs": 459553,
+   "endMs": 460081,
+   "escena": 8
+  },
+  {
+   "text": "que",
+   "startMs": 460081,
+   "endMs": 460257,
+   "escena": 8
+  },
+  {
+   "text": "el",
+   "startMs": 460257,
+   "endMs": 460433,
+   "escena": 8
+  },
+  {
+   "text": "Seguro",
+   "startMs": 460433,
+   "endMs": 460961,
+   "escena": 8
+  },
+  {
+   "text": "Social",
+   "startMs": 460961,
+   "endMs": 461313,
+   "escena": 8
+  },
+  {
+   "text": "será",
+   "startMs": 461313,
+   "endMs": 461664,
+   "escena": 8
+  },
+  {
+   "text": "una",
+   "startMs": 461664,
+   "endMs": 462016,
+   "escena": 8
+  },
+  {
+   "text": "base,",
+   "startMs": 462016,
+   "endMs": 462368,
+   "escena": 8
+  },
+  {
+   "text": "no",
+   "startMs": 462528,
+   "endMs": 462704,
+   "escena": 8
+  },
+  {
+   "text": "tu",
+   "startMs": 462704,
+   "endMs": 462880,
+   "escena": 8
+  },
+  {
+   "text": "único",
+   "startMs": 462880,
+   "endMs": 463408,
+   "escena": 8
+  },
+  {
+   "text": "ingreso.",
+   "startMs": 463408,
+   "endMs": 463935,
+   "escena": 8
+  },
+  {
+   "text": "Si",
+   "startMs": 464625,
+   "endMs": 464801,
+   "escena": 8
+  },
+  {
+   "text": "te",
+   "startMs": 464801,
+   "endMs": 464977,
+   "escena": 8
+  },
+  {
+   "text": "faltan",
+   "startMs": 464977,
+   "endMs": 465329,
+   "escena": 8
+  },
+  {
+   "text": "años",
+   "startMs": 465329,
+   "endMs": 465681,
+   "escena": 8
+  },
+  {
+   "text": "para",
+   "startMs": 465681,
+   "endMs": 466033,
+   "escena": 8
+  },
+  {
+   "text": "jubilarte,",
+   "startMs": 466033,
+   "endMs": 466736,
+   "escena": 8
+  },
+  {
+   "text": "esto",
+   "startMs": 466896,
+   "endMs": 467248,
+   "escena": 8
+  },
+  {
+   "text": "es",
+   "startMs": 467248,
+   "endMs": 467424,
+   "escena": 8
+  },
+  {
+   "text": "lo",
+   "startMs": 467424,
+   "endMs": 467600,
+   "escena": 8
+  },
+  {
+   "text": "que",
+   "startMs": 467600,
+   "endMs": 467776,
+   "escena": 8
+  },
+  {
+   "text": "puedes",
+   "startMs": 467776,
+   "endMs": 468128,
+   "escena": 8
+  },
+  {
+   "text": "hacer",
+   "startMs": 468128,
+   "endMs": 468480,
+   "escena": 8
+  },
+  {
+   "text": "hoy:",
+   "startMs": 468480,
+   "endMs": 468656,
+   "escena": 8
+  },
+  {
+   "text": "revisar",
+   "startMs": 468916,
+   "endMs": 469443,
+   "escena": 8
+  },
+  {
+   "text": "tu",
+   "startMs": 469443,
+   "endMs": 469619,
+   "escena": 8
+  },
+  {
+   "text": "historial",
+   "startMs": 469619,
+   "endMs": 470147,
+   "escena": 8
+  },
+  {
+   "text": "de",
+   "startMs": 470147,
+   "endMs": 470323,
+   "escena": 8
+  },
+  {
+   "text": "ingresos",
+   "startMs": 470323,
+   "endMs": 470851,
+   "escena": 8
+  },
+  {
+   "text": "en",
+   "startMs": 470851,
+   "endMs": 471027,
+   "escena": 8
+  },
+  {
+   "text": "tu",
+   "startMs": 471027,
+   "endMs": 471203,
+   "escena": 8
+  },
+  {
+   "text": "cuenta",
+   "startMs": 471203,
+   "endMs": 471554,
+   "escena": 8
+  },
+  {
+   "text": "my",
+   "startMs": 471554,
+   "endMs": 471730,
+   "escena": 8
+  },
+  {
+   "text": "Social",
+   "startMs": 471730,
+   "endMs": 472082,
+   "escena": 8
+  },
+  {
+   "text": "Security",
+   "startMs": 472082,
+   "endMs": 472786,
+   "escena": 8
+  },
+  {
+   "text": "para",
+   "startMs": 472786,
+   "endMs": 473138,
+   "escena": 8
+  },
+  {
+   "text": "comprobar",
+   "startMs": 473138,
+   "endMs": 473666,
+   "escena": 8
+  },
+  {
+   "text": "que",
+   "startMs": 473666,
+   "endMs": 473841,
+   "escena": 8
+  },
+  {
+   "text": "todos",
+   "startMs": 473841,
+   "endMs": 474193,
+   "escena": 8
+  },
+  {
+   "text": "tus",
+   "startMs": 474193,
+   "endMs": 474369,
+   "escena": 8
+  },
+  {
+   "text": "años",
+   "startMs": 474369,
+   "endMs": 474721,
+   "escena": 8
+  },
+  {
+   "text": "de",
+   "startMs": 474721,
+   "endMs": 474897,
+   "escena": 8
+  },
+  {
+   "text": "trabajo",
+   "startMs": 474897,
+   "endMs": 475425,
+   "escena": 8
+  },
+  {
+   "text": "están",
+   "startMs": 475425,
+   "endMs": 475777,
+   "escena": 8
+  },
+  {
+   "text": "registrados.",
+   "startMs": 475777,
+   "endMs": 476480,
+   "escena": 8
+  },
+  {
+   "text": "Un",
+   "startMs": 476820,
+   "endMs": 476996,
+   "escena": 8
+  },
+  {
+   "text": "error",
+   "startMs": 476996,
+   "endMs": 477348,
+   "escena": 8
+  },
+  {
+   "text": "ahí",
+   "startMs": 477348,
+   "endMs": 477700,
+   "escena": 8
+  },
+  {
+   "text": "te",
+   "startMs": 477700,
+   "endMs": 477876,
+   "escena": 8
+  },
+  {
+   "text": "puede",
+   "startMs": 477876,
+   "endMs": 478228,
+   "escena": 8
+  },
+  {
+   "text": "costar",
+   "startMs": 478228,
+   "endMs": 478579,
+   "escena": 8
+  },
+  {
+   "text": "dinero",
+   "startMs": 478579,
+   "endMs": 479107,
+   "escena": 8
+  },
+  {
+   "text": "toda",
+   "startMs": 479107,
+   "endMs": 479459,
+   "escena": 8
+  },
+  {
+   "text": "la",
+   "startMs": 479459,
+   "endMs": 479635,
+   "escena": 8
+  },
+  {
+   "text": "vida,",
+   "startMs": 479635,
+   "endMs": 479987,
+   "escena": 8
+  },
+  {
+   "text": "y",
+   "startMs": 480147,
+   "endMs": 480323,
+   "escena": 8
+  },
+  {
+   "text": "corregirlo",
+   "startMs": 480323,
+   "endMs": 481026,
+   "escena": 8
+  },
+  {
+   "text": "es",
+   "startMs": 481026,
+   "endMs": 481202,
+   "escena": 8
+  },
+  {
+   "text": "gratis.",
+   "startMs": 481202,
+   "endMs": 481554,
+   "escena": 8
+  },
+  {
+   "text": "Apunta",
+   "startMs": 482394,
+   "endMs": 482922,
+   "escena": 9
+  },
+  {
+   "text": "estas",
+   "startMs": 482922,
+   "endMs": 483274,
+   "escena": 9
+  },
+  {
+   "text": "fechas.",
+   "startMs": 483274,
+   "endMs": 483626,
+   "escena": 9
+  },
+  {
+   "text": "Uno:",
+   "startMs": 484316,
+   "endMs": 484667,
+   "escena": 9
+  },
+  {
+   "text": "hasta",
+   "startMs": 484927,
+   "endMs": 485279,
+   "escena": 9
+  },
+  {
+   "text": "el",
+   "startMs": 485279,
+   "endMs": 485455,
+   "escena": 9
+  },
+  {
+   "text": "7",
+   "startMs": 485455,
+   "endMs": 485983,
+   "escena": 9
+  },
+  {
+   "text": "de",
+   "startMs": 485983,
+   "endMs": 486159,
+   "escena": 9
+  },
+  {
+   "text": "diciembre,",
+   "startMs": 486159,
+   "endMs": 486687,
+   "escena": 9
+  },
+  {
+   "text": "compara",
+   "startMs": 486847,
+   "endMs": 487374,
+   "escena": 9
+  },
+  {
+   "text": "tu",
+   "startMs": 487374,
+   "endMs": 487550,
+   "escena": 9
+  },
+  {
+   "text": "plan",
+   "startMs": 487550,
+   "endMs": 487726,
+   "escena": 9
+  },
+  {
+   "text": "de",
+   "startMs": 487726,
+   "endMs": 487902,
+   "escena": 9
+  },
+  {
+   "text": "Medicare.",
+   "startMs": 487902,
+   "endMs": 488606,
+   "escena": 9
+  },
+  {
+   "text": "Dos:",
+   "startMs": 489296,
+   "endMs": 489472,
+   "escena": 9
+  },
+  {
+   "text": "desde",
+   "startMs": 489732,
+   "endMs": 490084,
+   "escena": 9
+  },
+  {
+   "text": "principios",
+   "startMs": 490084,
+   "endMs": 490611,
+   "escena": 9
+  },
+  {
+   "text": "de",
+   "startMs": 490611,
+   "endMs": 490787,
+   "escena": 9
+  },
+  {
+   "text": "diciembre,",
+   "startMs": 490787,
+   "endMs": 491315,
+   "escena": 9
+  },
+  {
+   "text": "el",
+   "startMs": 491475,
+   "endMs": 491651,
+   "escena": 9
+  },
+  {
+   "text": "Seguro",
+   "startMs": 491651,
+   "endMs": 492179,
+   "escena": 9
+  },
+  {
+   "text": "Social",
+   "startMs": 492179,
+   "endMs": 492531,
+   "escena": 9
+  },
+  {
+   "text": "envía",
+   "startMs": 492531,
+   "endMs": 492882,
+   "escena": 9
+  },
+  {
+   "text": "por",
+   "startMs": 492882,
+   "endMs": 493058,
+   "escena": 9
+  },
+  {
+   "text": "correo,",
+   "startMs": 493058,
+   "endMs": 493410,
+   "escena": 9
+  },
+  {
+   "text": "y",
+   "startMs": 493570,
+   "endMs": 493746,
+   "escena": 9
+  },
+  {
+   "text": "a",
+   "startMs": 493746,
+   "endMs": 493922,
+   "escena": 9
+  },
+  {
+   "text": "tu",
+   "startMs": 493922,
+   "endMs": 494098,
+   "escena": 9
+  },
+  {
+   "text": "cuenta",
+   "startMs": 494098,
+   "endMs": 494450,
+   "escena": 9
+  },
+  {
+   "text": "en",
+   "startMs": 494450,
+   "endMs": 494626,
+   "escena": 9
+  },
+  {
+   "text": "línea",
+   "startMs": 494626,
+   "endMs": 494978,
+   "escena": 9
+  },
+  {
+   "text": "my",
+   "startMs": 494978,
+   "endMs": 495153,
+   "escena": 9
+  },
+  {
+   "text": "Social",
+   "startMs": 495153,
+   "endMs": 495505,
+   "escena": 9
+  },
+  {
+   "text": "Security,",
+   "startMs": 495505,
+   "endMs": 496209,
+   "escena": 9
+  },
+  {
+   "text": "la",
+   "startMs": 496369,
+   "endMs": 496545,
+   "escena": 9
+  },
+  {
+   "text": "carta",
+   "startMs": 496545,
+   "endMs": 496897,
+   "escena": 9
+  },
+  {
+   "text": "con",
+   "startMs": 496897,
+   "endMs": 497073,
+   "escena": 9
+  },
+  {
+   "text": "tu",
+   "startMs": 497073,
+   "endMs": 497249,
+   "escena": 9
+  },
+  {
+   "text": "nueva",
+   "startMs": 497249,
+   "endMs": 497600,
+   "escena": 9
+  },
+  {
+   "text": "cantidad.",
+   "startMs": 497600,
+   "endMs": 498128,
+   "escena": 9
+  },
+  {
+   "text": "Tres:",
+   "startMs": 498818,
+   "endMs": 498994,
+   "escena": 9
+  },
+  {
+   "text": "en",
+   "startMs": 499254,
+   "endMs": 499430,
+   "escena": 9
+  },
+  {
+   "text": "enero",
+   "startMs": 499430,
+   "endMs": 499958,
+   "escena": 9
+  },
+  {
+   "text": "llega",
+   "startMs": 499958,
+   "endMs": 500310,
+   "escena": 9
+  },
+  {
+   "text": "el",
+   "startMs": 500310,
+   "endMs": 500486,
+   "escena": 9
+  },
+  {
+   "text": "primer",
+   "startMs": 500486,
+   "endMs": 500837,
+   "escena": 9
+  },
+  {
+   "text": "pago",
+   "startMs": 500837,
+   "endMs": 501189,
+   "escena": 9
+  },
+  {
+   "text": "con",
+   "startMs": 501189,
+   "endMs": 501365,
+   "escena": 9
+  },
+  {
+   "text": "el",
+   "startMs": 501365,
+   "endMs": 501541,
+   "escena": 9
+  },
+  {
+   "text": "aumento.",
+   "startMs": 501541,
+   "endMs": 502069,
+   "escena": 9
+  },
+  {
+   "text": "Y",
+   "startMs": 502759,
+   "endMs": 502935,
+   "escena": 9
+  },
+  {
+   "text": "muy",
+   "startMs": 502935,
+   "endMs": 503111,
+   "escena": 9
+  },
+  {
+   "text": "importante:",
+   "startMs": 503111,
+   "endMs": 503814,
+   "escena": 9
+  },
+  {
+   "text": "en",
+   "startMs": 504074,
+   "endMs": 504250,
+   "escena": 9
+  },
+  {
+   "text": "estas",
+   "startMs": 504250,
+   "endMs": 504602,
+   "escena": 9
+  },
+  {
+   "text": "fechas",
+   "startMs": 504602,
+   "endMs": 504954,
+   "escena": 9
+  },
+  {
+   "text": "aumentan",
+   "startMs": 504954,
+   "endMs": 505482,
+   "escena": 9
+  },
+  {
+   "text": "las",
+   "startMs": 505482,
+   "endMs": 505658,
+   "escena": 9
+  },
+  {
+   "text": "estafas.",
+   "startMs": 505658,
+   "endMs": 506185,
+   "escena": 9
+  },
+  {
+   "text": "El",
+   "startMs": 506525,
+   "endMs": 506701,
+   "escena": 9
+  },
+  {
+   "text": "Seguro",
+   "startMs": 506701,
+   "endMs": 507229,
+   "escena": 9
+  },
+  {
+   "text": "Social",
+   "startMs": 507229,
+   "endMs": 507581,
+   "escena": 9
+  },
+  {
+   "text": "no",
+   "startMs": 507581,
+   "endMs": 507757,
+   "escena": 9
+  },
+  {
+   "text": "te",
+   "startMs": 507757,
+   "endMs": 507933,
+   "escena": 9
+  },
+  {
+   "text": "va",
+   "startMs": 507933,
+   "endMs": 508109,
+   "escena": 9
+  },
+  {
+   "text": "a",
+   "startMs": 508109,
+   "endMs": 508285,
+   "escena": 9
+  },
+  {
+   "text": "llamar",
+   "startMs": 508285,
+   "endMs": 508636,
+   "escena": 9
+  },
+  {
+   "text": "para",
+   "startMs": 508636,
+   "endMs": 508988,
+   "escena": 9
+  },
+  {
+   "text": "amenazarte,",
+   "startMs": 508988,
+   "endMs": 509868,
+   "escena": 9
+  },
+  {
+   "text": "ni",
+   "startMs": 510028,
+   "endMs": 510204,
+   "escena": 9
+  },
+  {
+   "text": "para",
+   "startMs": 510204,
+   "endMs": 510556,
+   "escena": 9
+  },
+  {
+   "text": "pedirte",
+   "startMs": 510556,
+   "endMs": 511083,
+   "escena": 9
+  },
+  {
+   "text": "tarjetas",
+   "startMs": 511083,
+   "endMs": 511611,
+   "escena": 9
+  },
+  {
+   "text": "de",
+   "startMs": 511611,
+   "endMs": 511787,
+   "escena": 9
+  },
+  {
+   "text": "regalo,",
+   "startMs": 511787,
+   "endMs": 512315,
+   "escena": 9
+  },
+  {
+   "text": "criptomonedas",
+   "startMs": 512475,
+   "endMs": 513354,
+   "escena": 9
+  },
+  {
+   "text": "o",
+   "startMs": 513354,
+   "endMs": 513530,
+   "escena": 9
+  },
+  {
+   "text": "transferencias.",
+   "startMs": 513530,
+   "endMs": 514234,
+   "escena": 9
+  },
+  {
+   "text": "Si",
+   "startMs": 514574,
+   "endMs": 514750,
+   "escena": 9
+  },
+  {
+   "text": "alguien",
+   "startMs": 514750,
+   "endMs": 515102,
+   "escena": 9
+  },
+  {
+   "text": "lo",
+   "startMs": 515102,
+   "endMs": 515278,
+   "escena": 9
+  },
+  {
+   "text": "hace,",
+   "startMs": 515278,
+   "endMs": 515630,
+   "escena": 9
+  },
+  {
+   "text": "cuelga",
+   "startMs": 515790,
+   "endMs": 516141,
+   "escena": 9
+  },
+  {
+   "text": "y",
+   "startMs": 516141,
+   "endMs": 516317,
+   "escena": 9
+  },
+  {
+   "text": "llama",
+   "startMs": 516317,
+   "endMs": 516669,
+   "escena": 9
+  },
+  {
+   "text": "tú",
+   "startMs": 516669,
+   "endMs": 516845,
+   "escena": 9
+  },
+  {
+   "text": "directamente",
+   "startMs": 516845,
+   "endMs": 517725,
+   "escena": 9
+  },
+  {
+   "text": "al",
+   "startMs": 517725,
+   "endMs": 517901,
+   "escena": 9
+  },
+  {
+   "text": "número",
+   "startMs": 517901,
+   "endMs": 518428,
+   "escena": 9
+  },
+  {
+   "text": "oficial.",
+   "startMs": 518428,
+   "endMs": 518956,
+   "escena": 9
+  },
+  {
+   "text": "Resumiendo:",
+   "startMs": 519796,
+   "endMs": 520500,
+   "escena": 10
+  },
+  {
+   "text": "el",
+   "startMs": 520760,
+   "endMs": 520936,
+   "escena": 10
+  },
+  {
+   "text": "aumento",
+   "startMs": 520936,
+   "endMs": 521463,
+   "escena": 10
+  },
+  {
+   "text": "es",
+   "startMs": 521463,
+   "endMs": 521639,
+   "escena": 10
+  },
+  {
+   "text": "del",
+   "startMs": 521639,
+   "endMs": 521815,
+   "escena": 10
+  },
+  {
+   "text": "3,6 %,",
+   "startMs": 521815,
+   "endMs": 523750,
+   "escena": 10
+  },
+  {
+   "text": "pero",
+   "startMs": 523910,
+   "endMs": 524262,
+   "escena": 10
+  },
+  {
+   "text": "lo",
+   "startMs": 524262,
+   "endMs": 524438,
+   "escena": 10
+  },
+  {
+   "text": "que",
+   "startMs": 524438,
+   "endMs": 524614,
+   "escena": 10
+  },
+  {
+   "text": "de",
+   "startMs": 524614,
+   "endMs": 524790,
+   "escena": 10
+  },
+  {
+   "text": "verdad",
+   "startMs": 524790,
+   "endMs": 525142,
+   "escena": 10
+  },
+  {
+   "text": "te",
+   "startMs": 525142,
+   "endMs": 525318,
+   "escena": 10
+  },
+  {
+   "text": "llega",
+   "startMs": 525318,
+   "endMs": 525670,
+   "escena": 10
+  },
+  {
+   "text": "depende",
+   "startMs": 525670,
+   "endMs": 526197,
+   "escena": 10
+  },
+  {
+   "text": "de",
+   "startMs": 526197,
+   "endMs": 526373,
+   "escena": 10
+  },
+  {
+   "text": "Medicare.",
+   "startMs": 526373,
+   "endMs": 527077,
+   "escena": 10
+  },
+  {
+   "text": "Y",
+   "startMs": 527417,
+   "endMs": 527593,
+   "escena": 10
+  },
+  {
+   "text": "lo",
+   "startMs": 527593,
+   "endMs": 527769,
+   "escena": 10
+  },
+  {
+   "text": "que",
+   "startMs": 527769,
+   "endMs": 527945,
+   "escena": 10
+  },
+  {
+   "text": "más",
+   "startMs": 527945,
+   "endMs": 528121,
+   "escena": 10
+  },
+  {
+   "text": "dinero",
+   "startMs": 528121,
+   "endMs": 528648,
+   "escena": 10
+  },
+  {
+   "text": "te",
+   "startMs": 528648,
+   "endMs": 528824,
+   "escena": 10
+  },
+  {
+   "text": "puede",
+   "startMs": 528824,
+   "endMs": 529176,
+   "escena": 10
+  },
+  {
+   "text": "ahorrar",
+   "startMs": 529176,
+   "endMs": 529704,
+   "escena": 10
+  },
+  {
+   "text": "este",
+   "startMs": 529704,
+   "endMs": 530056,
+   "escena": 10
+  },
+  {
+   "text": "año",
+   "startMs": 530056,
+   "endMs": 530408,
+   "escena": 10
+  },
+  {
+   "text": "es",
+   "startMs": 530408,
+   "endMs": 530584,
+   "escena": 10
+  },
+  {
+   "text": "comparar",
+   "startMs": 530584,
+   "endMs": 531111,
+   "escena": 10
+  },
+  {
+   "text": "tu",
+   "startMs": 531111,
+   "endMs": 531287,
+   "escena": 10
+  },
+  {
+   "text": "plan",
+   "startMs": 531287,
+   "endMs": 531463,
+   "escena": 10
+  },
+  {
+   "text": "antes",
+   "startMs": 531463,
+   "endMs": 531815,
+   "escena": 10
+  },
+  {
+   "text": "del",
+   "startMs": 531815,
+   "endMs": 531991,
+   "escena": 10
+  },
+  {
+   "text": "7",
+   "startMs": 531991,
+   "endMs": 532519,
+   "escena": 10
+  },
+  {
+   "text": "de",
+   "startMs": 532519,
+   "endMs": 532695,
+   "escena": 10
+  },
+  {
+   "text": "diciembre.",
+   "startMs": 532695,
+   "endMs": 533222,
+   "escena": 10
+  },
+  {
+   "text": "Y",
+   "startMs": 533912,
+   "endMs": 534088,
+   "escena": 10
+  },
+  {
+   "text": "una",
+   "startMs": 534088,
+   "endMs": 534440,
+   "escena": 10
+  },
+  {
+   "text": "pregunta",
+   "startMs": 534440,
+   "endMs": 534968,
+   "escena": 10
+  },
+  {
+   "text": "para",
+   "startMs": 534968,
+   "endMs": 535320,
+   "escena": 10
+  },
+  {
+   "text": "ti:",
+   "startMs": 535320,
+   "endMs": 535496,
+   "escena": 10
+  },
+  {
+   "text": "¿cuánto",
+   "startMs": 535756,
+   "endMs": 536107,
+   "escena": 10
+  },
+  {
+   "text": "vas",
+   "startMs": 536107,
+   "endMs": 536283,
+   "escena": 10
+  },
+  {
+   "text": "a",
+   "startMs": 536283,
+   "endMs": 536459,
+   "escena": 10
+  },
+  {
+   "text": "cobrar",
+   "startMs": 536459,
+   "endMs": 536811,
+   "escena": 10
+  },
+  {
+   "text": "tú",
+   "startMs": 536811,
+   "endMs": 536987,
+   "escena": 10
+  },
+  {
+   "text": "en",
+   "startMs": 536987,
+   "endMs": 537163,
+   "escena": 10
+  },
+  {
+   "text": "2027?",
+   "startMs": 537163,
+   "endMs": 538746,
+   "escena": 10
+  },
+  {
+   "text": "Haz",
+   "startMs": 539126,
+   "endMs": 539302,
+   "escena": 10
+  },
+  {
+   "text": "la",
+   "startMs": 539302,
+   "endMs": 539478,
+   "escena": 10
+  },
+  {
+   "text": "cuenta",
+   "startMs": 539478,
+   "endMs": 539830,
+   "escena": 10
+  },
+  {
+   "text": "con",
+   "startMs": 539830,
+   "endMs": 540006,
+   "escena": 10
+  },
+  {
+   "text": "tu",
+   "startMs": 540006,
+   "endMs": 540182,
+   "escena": 10
+  },
+  {
+   "text": "cifra",
+   "startMs": 540182,
+   "endMs": 540534,
+   "escena": 10
+  },
+  {
+   "text": "y",
+   "startMs": 540534,
+   "endMs": 540710,
+   "escena": 10
+  },
+  {
+   "text": "déjala",
+   "startMs": 540710,
+   "endMs": 541237,
+   "escena": 10
+  },
+  {
+   "text": "en",
+   "startMs": 541237,
+   "endMs": 541413,
+   "escena": 10
+  },
+  {
+   "text": "los",
+   "startMs": 541413,
+   "endMs": 541589,
+   "escena": 10
+  },
+  {
+   "text": "comentarios,",
+   "startMs": 541589,
+   "endMs": 542293,
+   "escena": 10
+  },
+  {
+   "text": "o",
+   "startMs": 542453,
+   "endMs": 542629,
+   "escena": 10
+  },
+  {
+   "text": "cuéntame",
+   "startMs": 542629,
+   "endMs": 543157,
+   "escena": 10
+  },
+  {
+   "text": "qué",
+   "startMs": 543157,
+   "endMs": 543332,
+   "escena": 10
+  },
+  {
+   "text": "duda",
+   "startMs": 543332,
+   "endMs": 543684,
+   "escena": 10
+  },
+  {
+   "text": "tienes",
+   "startMs": 543684,
+   "endMs": 544036,
+   "escena": 10
+  },
+  {
+   "text": "sobre",
+   "startMs": 544036,
+   "endMs": 544388,
+   "escena": 10
+  },
+  {
+   "text": "Medicare.",
+   "startMs": 544388,
+   "endMs": 545092,
+   "escena": 10
+  },
+  {
+   "text": "Leo",
+   "startMs": 545432,
+   "endMs": 545608,
+   "escena": 10
+  },
+  {
+   "text": "todos",
+   "startMs": 545608,
+   "endMs": 545959,
+   "escena": 10
+  },
+  {
+   "text": "los",
+   "startMs": 545959,
+   "endMs": 546135,
+   "escena": 10
+  },
+  {
+   "text": "comentarios,",
+   "startMs": 546135,
+   "endMs": 546839,
+   "escena": 10
+  },
+  {
+   "text": "y",
+   "startMs": 546999,
+   "endMs": 547175,
+   "escena": 10
+  },
+  {
+   "text": "las",
+   "startMs": 547175,
+   "endMs": 547351,
+   "escena": 10
+  },
+  {
+   "text": "preguntas",
+   "startMs": 547351,
+   "endMs": 547879,
+   "escena": 10
+  },
+  {
+   "text": "más",
+   "startMs": 547879,
+   "endMs": 548055,
+   "escena": 10
+  },
+  {
+   "text": "repetidas",
+   "startMs": 548055,
+   "endMs": 548758,
+   "escena": 10
+  },
+  {
+   "text": "se",
+   "startMs": 548758,
+   "endMs": 548934,
+   "escena": 10
+  },
+  {
+   "text": "convierten",
+   "startMs": 548934,
+   "endMs": 549462,
+   "escena": 10
+  },
+  {
+   "text": "en",
+   "startMs": 549462,
+   "endMs": 549638,
+   "escena": 10
+  },
+  {
+   "text": "vídeos.",
+   "startMs": 549638,
+   "endMs": 549990,
+   "escena": 10
+  },
+  {
+   "text": "Si",
+   "startMs": 550680,
+   "endMs": 550856,
+   "escena": 10
+  },
+  {
+   "text": "este",
+   "startMs": 550856,
+   "endMs": 551207,
+   "escena": 10
+  },
+  {
+   "text": "vídeo",
+   "startMs": 551207,
+   "endMs": 551559,
+   "escena": 10
+  },
+  {
+   "text": "te",
+   "startMs": 551559,
+   "endMs": 551735,
+   "escena": 10
+  },
+  {
+   "text": "ayudó,",
+   "startMs": 551735,
+   "endMs": 552087,
+   "escena": 10
+  },
+  {
+   "text": "compártelo",
+   "startMs": 552247,
+   "endMs": 552951,
+   "escena": 10
+  },
+  {
+   "text": "con",
+   "startMs": 552951,
+   "endMs": 553127,
+   "escena": 10
+  },
+  {
+   "text": "tus",
+   "startMs": 553127,
+   "endMs": 553303,
+   "escena": 10
+  },
+  {
+   "text": "padres,",
+   "startMs": 553303,
+   "endMs": 553654,
+   "escena": 10
+  },
+  {
+   "text": "tus",
+   "startMs": 553814,
+   "endMs": 553990,
+   "escena": 10
+  },
+  {
+   "text": "tíos",
+   "startMs": 553990,
+   "endMs": 554166,
+   "escena": 10
+  },
+  {
+   "text": "o",
+   "startMs": 554166,
+   "endMs": 554342,
+   "escena": 10
+  },
+  {
+   "text": "esa",
+   "startMs": 554342,
+   "endMs": 554694,
+   "escena": 10
+  },
+  {
+   "text": "vecina",
+   "startMs": 554694,
+   "endMs": 555222,
+   "escena": 10
+  },
+  {
+   "text": "que",
+   "startMs": 555222,
+   "endMs": 555398,
+   "escena": 10
+  },
+  {
+   "text": "siempre",
+   "startMs": 555398,
+   "endMs": 555749,
+   "escena": 10
+  },
+  {
+   "text": "pregunta",
+   "startMs": 555749,
+   "endMs": 556277,
+   "escena": 10
+  },
+  {
+   "text": "por",
+   "startMs": 556277,
+   "endMs": 556453,
+   "escena": 10
+  },
+  {
+   "text": "estas",
+   "startMs": 556453,
+   "endMs": 556805,
+   "escena": 10
+  },
+  {
+   "text": "cosas.",
+   "startMs": 556805,
+   "endMs": 557157,
+   "escena": 10
+  },
+  {
+   "text": "Puede",
+   "startMs": 557497,
+   "endMs": 557849,
+   "escena": 10
+  },
+  {
+   "text": "ahorrarles",
+   "startMs": 557849,
+   "endMs": 558552,
+   "escena": 10
+  },
+  {
+   "text": "dinero",
+   "startMs": 558552,
+   "endMs": 559080,
+   "escena": 10
+  },
+  {
+   "text": "de",
+   "startMs": 559080,
+   "endMs": 559256,
+   "escena": 10
+  },
+  {
+   "text": "verdad.",
+   "startMs": 559256,
+   "endMs": 559608,
+   "escena": 10
+  },
+  {
+   "text": "Suscríbete",
+   "startMs": 560298,
+   "endMs": 561002,
+   "escena": 10
+  },
+  {
+   "text": "y",
+   "startMs": 561002,
+   "endMs": 561177,
+   "escena": 10
+  },
+  {
+   "text": "activa",
+   "startMs": 561177,
+   "endMs": 561705,
+   "escena": 10
+  },
+  {
+   "text": "la",
+   "startMs": 561705,
+   "endMs": 561881,
+   "escena": 10
+  },
+  {
+   "text": "campanita:",
+   "startMs": 561881,
+   "endMs": 562585,
+   "escena": 10
+  },
+  {
+   "text": "la",
+   "startMs": 562845,
+   "endMs": 563021,
+   "escena": 10
+  },
+  {
+   "text": "próxima",
+   "startMs": 563021,
+   "endMs": 563549,
+   "escena": 10
+  },
+  {
+   "text": "semana",
+   "startMs": 563549,
+   "endMs": 564076,
+   "escena": 10
+  },
+  {
+   "text": "te",
+   "startMs": 564076,
+   "endMs": 564252,
+   "escena": 10
+  },
+  {
+   "text": "explico",
+   "startMs": 564252,
+   "endMs": 564780,
+   "escena": 10
+  },
+  {
+   "text": "a",
+   "startMs": 564780,
+   "endMs": 564956,
+   "escena": 10
+  },
+  {
+   "text": "qué",
+   "startMs": 564956,
+   "endMs": 565132,
+   "escena": 10
+  },
+  {
+   "text": "edad",
+   "startMs": 565132,
+   "endMs": 565484,
+   "escena": 10
+  },
+  {
+   "text": "conviene",
+   "startMs": 565484,
+   "endMs": 566011,
+   "escena": 10
+  },
+  {
+   "text": "pedir",
+   "startMs": 566011,
+   "endMs": 566363,
+   "escena": 10
+  },
+  {
+   "text": "el",
+   "startMs": 566363,
+   "endMs": 566539,
+   "escena": 10
+  },
+  {
+   "text": "Seguro",
+   "startMs": 566539,
+   "endMs": 567067,
+   "escena": 10
+  },
+  {
+   "text": "Social,",
+   "startMs": 567067,
+   "endMs": 567419,
+   "escena": 10
+  },
+  {
+   "text": "con",
+   "startMs": 567579,
+   "endMs": 567755,
+   "escena": 10
+  },
+  {
+   "text": "números.",
+   "startMs": 567755,
+   "endMs": 568282,
+   "escena": 10
+  },
+  {
+   "text": "Y",
+   "startMs": 568972,
+   "endMs": 569148,
+   "escena": 10
+  },
+  {
+   "text": "recuerda:",
+   "startMs": 569148,
+   "endMs": 569676,
+   "escena": 10
+  },
+  {
+   "text": "esto",
+   "startMs": 569936,
+   "endMs": 570288,
+   "escena": 10
+  },
+  {
+   "text": "es",
+   "startMs": 570288,
+   "endMs": 570464,
+   "escena": 10
+  },
+  {
+   "text": "información",
+   "startMs": 570464,
+   "endMs": 571168,
+   "escena": 10
+  },
+  {
+   "text": "educativa,",
+   "startMs": 571168,
+   "endMs": 572047,
+   "escena": 10
+  },
+  {
+   "text": "no",
+   "startMs": 572207,
+   "endMs": 572383,
+   "escena": 10
+  },
+  {
+   "text": "asesoría",
+   "startMs": 572383,
+   "endMs": 573087,
+   "escena": 10
+  },
+  {
+   "text": "financiera.",
+   "startMs": 573087,
+   "endMs": 573790,
+   "escena": 10
+  },
+  {
+   "text": "Para",
+   "startMs": 574130,
+   "endMs": 574482,
+   "escena": 10
+  },
+  {
+   "text": "tu",
+   "startMs": 574482,
+   "endMs": 574658,
+   "escena": 10
+  },
+  {
+   "text": "caso",
+   "startMs": 574658,
+   "endMs": 575010,
+   "escena": 10
+  },
+  {
+   "text": "concreto,",
+   "startMs": 575010,
+   "endMs": 575538,
+   "escena": 10
+  },
+  {
+   "text": "consulta",
+   "startMs": 575698,
+   "endMs": 576226,
+   "escena": 10
+  },
+  {
+   "text": "al",
+   "startMs": 576226,
+   "endMs": 576401,
+   "escena": 10
+  },
+  {
+   "text": "Seguro",
+   "startMs": 576401,
+   "endMs": 576929,
+   "escena": 10
+  },
+  {
+   "text": "Social",
+   "startMs": 576929,
+   "endMs": 577281,
+   "escena": 10
+  },
+  {
+   "text": "o",
+   "startMs": 577281,
+   "endMs": 577457,
+   "escena": 10
+  },
+  {
+   "text": "a",
+   "startMs": 577457,
+   "endMs": 577633,
+   "escena": 10
+  },
+  {
+   "text": "un",
+   "startMs": 577633,
+   "endMs": 577809,
+   "escena": 10
+  },
+  {
+   "text": "profesional.",
+   "startMs": 577809,
+   "endMs": 578513,
+   "escena": 10
+  },
+  {
+   "text": "Nos",
+   "startMs": 578853,
+   "endMs": 579028,
+   "escena": 10
+  },
+  {
+   "text": "vemos",
+   "startMs": 579028,
+   "endMs": 579380,
+   "escena": 10
+  },
+  {
+   "text": "en",
+   "startMs": 579380,
+   "endMs": 579556,
+   "escena": 10
+  },
+  {
+   "text": "el",
+   "startMs": 579556,
+   "endMs": 579732,
+   "escena": 10
+  },
+  {
+   "text": "próximo",
+   "startMs": 579732,
+   "endMs": 580260,
+   "escena": 10
+  },
+  {
+   "text": "vídeo.",
+   "startMs": 580260,
+   "endMs": 580612,
+   "escena": 10
+  }
+ ],
+ "lines": [
+  {
+   "escena": 1,
+   "text": "Si cobras el Seguro Social, en enero te llega un aumento. El gobierno ya anunció cuánto: un 3,6 %. Suena bien, ¿verdad?",
+   "startMs": 400,
+   "endMs": 10308
+  },
+  {
+   "escena": 1,
+   "text": "Pero hay un detalle que casi nadie te explica: antes de que ese dinero llegue a tu cuenta, Medicare se lleva su parte. Y este año hay otros cambios que te pueden costar dinero si no haces nada antes del 7 de diciembre.",
+   "startMs": 10658,
+   "endMs": 25128
+  },
+  {
+   "escena": 1,
+   "text": "En este vídeo vas a ver, con números reales, cuánto vas a cobrar de verdad en 2027. Quédate hasta el final, porque te doy una lista de fechas que no te puedes saltar.",
+   "startMs": 25478,
+   "endMs": 37017
+  },
+  {
+   "escena": 2,
+   "text": "Bienvenido a Dinero Claro USA. Aquí explicamos el Seguro Social, Medicare y tu dinero en Estados Unidos en español, claro y sin rodeos.",
+   "startMs": 37517,
+   "endMs": 47313
+  },
+  {
+   "escena": 2,
+   "text": "Y para que todo se entienda mejor, hoy nos acompañan Rosa y Miguel, un matrimonio jubilado de Texas. Vamos a hacer sus cuentas paso a paso.",
+   "startMs": 47663,
+   "endMs": 57108
+  },
+  {
+   "escena": 3,
+   "text": "Primero, lo básico. Ese aumento se llama COLA, que viene del inglés «cost-of-living adjustment»: ajuste por costo de vida.",
+   "startMs": 57608,
+   "endMs": 65729
+  },
+  {
+   "escena": 3,
+   "text": "Cada año, el Seguro Social sube los pagos para que los precios no se coman tu dinero. ¿Cómo lo calcula? Mira la inflación de julio, agosto y septiembre y la compara con los mismos meses del año anterior. Si los precios subieron, tu cheque también sube.",
+   "startMs": 66079,
+   "endMs": 82384
+  },
+  {
+   "escena": 3,
+   "text": "Piénsalo así: si el año pasado tu compra del supermercado costaba cien dólares y ahora cuesta casi ciento cuatro, el COLA intenta que tu cheque suba más o menos en la misma proporción.",
+   "startMs": 82734,
+   "endMs": 94577
+  },
+  {
+   "escena": 3,
+   "text": "Para que te hagas una idea, en 2026 el aumento fue del 2,8 %. Para 2027 es mayor: el más alto desde 2023.",
+   "startMs": 94927,
+   "endMs": 107462
+  },
+  {
+   "escena": 3,
+   "text": "Una cosa importante: el COLA no es un regalo ni un aumento extra. Solo intenta que no pierdas poder de compra. Y muchos jubilados sienten que se queda corto: en una encuesta de AARP de septiembre, ocho de cada diez dijeron que un aumento del 3,5 % no les alcanzaría para seguir el ritmo de los precios.",
+   "startMs": 107812,
+   "endMs": 128511
+  },
+  {
+   "escena": 3,
+   "text": "Hay una razón: el índice que se usa mide sobre todo los gastos de trabajadores jóvenes, no los de las personas mayores, que gastan mucho más en salud y en vivienda.",
+   "startMs": 128861,
+   "endMs": 139281
+  },
+  {
+   "escena": 4,
+   "text": "El 14 de octubre, el Seguro Social anunció un aumento del 3,6 % para 2027. Según la agencia, eso supone unos 75 dólares más al mes para el beneficiario promedio.",
+   "startMs": 139781,
+   "endMs": 155030
+  },
+  {
+   "escena": 4,
+   "text": "Pero tú no eres un promedio. Veamos ejemplos concretos.",
+   "startMs": 155380,
+   "endMs": 159227
+  },
+  {
+   "escena": 4,
+   "text": "Si cobras 1.200 dólares, pasarás a unos 1.243: 43 dólares más. Con 1.500, subes a 1.554. Con 2.000, llegas a 2.072: 72 dólares más al mes. Y con 2.500, subes a 2.590.",
+   "startMs": 159577,
+   "endMs": 179161
+  },
+  {
+   "escena": 4,
+   "text": "Miguel cobra 2.000 dólares. Así que, en papel, a partir de enero recibirá 2.072. Un detalle: el Seguro Social siempre redondea a la baja al dólar entero.",
+   "startMs": 179511,
+   "endMs": 191842
+  },
+  {
+   "escena": 4,
+   "text": "Pero «en papel» es la clave. Porque Miguel tiene Medicare, y aquí empieza lo interesante.",
+   "startMs": 192192,
+   "endMs": 198486
+  },
+  {
+   "escena": 5,
+   "text": "Si tienes Medicare, la prima de la Parte B, la que cubre tus visitas al médico y la atención ambulatoria, normalmente se descuenta directamente de tu cheque del Seguro Social.",
+   "startMs": 198986,
+   "endMs": 210361
+  },
+  {
+   "escena": 5,
+   "text": "En 2026 esa prima estándar es de 202 dólares con 90 centavos al mes. Para 2027, los fideicomisarios de Medicare proyectan que suba a 209 con 50: unos 6 dólares con 60 más. La cifra oficial se publica en otoño, así que confírmala en medicare.gov.",
+   "startMs": 210711,
+   "endMs": 233070
+  },
+  {
+   "escena": 5,
+   "text": "Hagamos la cuenta de Miguel: 72 dólares de aumento, menos 6 con 60 de Medicare. Le quedan unos 65 dólares netos más al mes. Sigue siendo una subida, pero no es la que dice el titular.",
+   "startMs": 233420,
+   "endMs": 248038
+  },
+  {
+   "escena": 5,
+   "text": "Y ojo: si tienes ingresos altos, puedes pagar un recargo adicional en la Parte B y en la cobertura de medicamentos. En ese caso, tu aumento neto puede ser bastante menor.",
+   "startMs": 248388,
+   "endMs": 260203
+  },
+  {
+   "escena": 5,
+   "text": "¿Y Rosa? Rosa tiene 64 años, así que todavía no está en Medicare. Para ella, este descuento empezará cuando cumpla 65. Por eso es importante que lo entienda ya: el cheque que le prometen no es el que va a ver en su cuenta.",
+   "startMs": 260553,
+   "endMs": 277134
+  },
+  {
+   "escena": 5,
+   "text": "Un consejo práctico: cuando te llegue la carta del Seguro Social en diciembre, no mires solo la cifra grande. Busca la línea de las deducciones. Ahí verás exactamente cuánto se lleva Medicare.",
+   "startMs": 277484,
+   "endMs": 290183
+  },
+  {
+   "escena": 6,
+   "text": "Ahora, la parte que de verdad te puede ahorrar dinero. Ahora mismo estamos en el periodo de inscripción abierta de Medicare, que va del 15 de octubre al 7 de diciembre.",
+   "startMs": 290683,
+   "endMs": 302942
+  },
+  {
+   "escena": 6,
+   "text": "Este año, las primas mensuales de algunos planes de medicamentos, la Parte D, suben 50 dólares o más. Y en muchos planes Medicare Advantage suben los costos y se recortan beneficios extra.",
+   "startMs": 303292,
+   "endMs": 316063
+  },
+  {
+   "escena": 6,
+   "text": "La buena noticia es que hay opciones más baratas para quien compara. Si no haces nada, tu plan se renueva solo, con sus nuevos precios.",
+   "startMs": 316413,
+   "endMs": 324801
+  },
+  {
+   "escena": 6,
+   "text": "Rosa hizo la prueba: entró en medicare.gov, metió sus medicinas en el buscador de planes y encontró uno que le salía más barato que el suyo. Le llevó media hora.",
+   "startMs": 325151,
+   "endMs": 335751
+  },
+  {
+   "escena": 6,
+   "text": "Cuando compares, fíjate en tres cosas: que tus medicinas estén cubiertas, que tus médicos y tu farmacia estén en la red del plan, y cuánto pagarías en total en el año, no solo la prima mensual. Un plan con prima de cero puede salirte más caro si tus medicinas no están bien cubiertas.",
+   "startMs": 336101,
+   "endMs": 353514
+  },
+  {
+   "escena": 6,
+   "text": "Si no te manejas con la computadora, en cada estado hay un programa gratuito de consejería de Medicare, llamado SHIP, que te ayuda a comparar. También puedes llamar al 1-800-MEDICARE y pedir atención en español.",
+   "startMs": 353864,
+   "endMs": 368394
+  },
+  {
+   "escena": 7,
+   "text": "Si todavía trabajas, también hay cambios para ti.",
+   "startMs": 368894,
+   "endMs": 372033
+  },
+  {
+   "escena": 7,
+   "text": "El salario máximo sobre el que se paga el impuesto del Seguro Social sube a 192.300 dólares, desde 184.500. Si ganas por encima de esa cifra, pagarás ese impuesto sobre una parte mayor de tu sueldo.",
+   "startMs": 372383,
+   "endMs": 387632
+  },
+  {
+   "escena": 7,
+   "text": "Y hay un cambio histórico: en 2027 se completa la ley de 1983 que fue subiendo la edad de jubilación completa. Para quien nació en 1960 o después, esa edad queda fijada en 67 años.",
+   "startMs": 387982,
+   "endMs": 403859
+  },
+  {
+   "escena": 7,
+   "text": "¿Qué significa? Que si pides tu beneficio a los 62, cobrarás menos de por vida. Y si esperas más allá de los 67, tu cheque crece. Esa decisión vale miles de dólares, y le vamos a dedicar un vídeo entero.",
+   "startMs": 404209,
+   "endMs": 419635
+  },
+  {
+   "escena": 8,
+   "text": "Seguro que lo has oído: «el Seguro Social se va a quedar sin dinero». Vamos con los datos, sin miedo.",
+   "startMs": 420135,
+   "endMs": 426865
+  },
+  {
+   "escena": 8,
+   "text": "Los fideicomisarios proyectan que el fondo de reserva de jubilación se agotaría en 2032, y los fondos combinados de jubilación e incapacidad, en 2034.",
+   "startMs": 427215,
+   "endMs": 439485
+  },
+  {
+   "escena": 8,
+   "text": "Pero agotar la reserva no significa cero pagos. Los trabajadores siguen pagando impuestos cada mes, y con ese dinero se seguiría pagando la mayor parte de los beneficios. El riesgo real es un recorte si el Congreso no actúa antes.",
+   "startMs": 439835,
+   "endMs": 454737
+  },
+  {
+   "escena": 8,
+   "text": "Así que no entres en pánico, pero tampoco lo ignores: planifica pensando que el Seguro Social será una base, no tu único ingreso.",
+   "startMs": 455087,
+   "endMs": 464275
+  },
+  {
+   "escena": 8,
+   "text": "Si te faltan años para jubilarte, esto es lo que puedes hacer hoy: revisar tu historial de ingresos en tu cuenta my Social Security para comprobar que todos tus años de trabajo están registrados. Un error ahí te puede costar dinero toda la vida, y corregirlo es gratis.",
+   "startMs": 464625,
+   "endMs": 481894
+  },
+  {
+   "escena": 9,
+   "text": "Apunta estas fechas.",
+   "startMs": 482394,
+   "endMs": 483966
+  },
+  {
+   "escena": 9,
+   "text": "Uno: hasta el 7 de diciembre, compara tu plan de Medicare.",
+   "startMs": 484316,
+   "endMs": 488946
+  },
+  {
+   "escena": 9,
+   "text": "Dos: desde principios de diciembre, el Seguro Social envía por correo, y a tu cuenta en línea my Social Security, la carta con tu nueva cantidad.",
+   "startMs": 489296,
+   "endMs": 498468
+  },
+  {
+   "escena": 9,
+   "text": "Tres: en enero llega el primer pago con el aumento.",
+   "startMs": 498818,
+   "endMs": 502409
+  },
+  {
+   "escena": 9,
+   "text": "Y muy importante: en estas fechas aumentan las estafas. El Seguro Social no te va a llamar para amenazarte, ni para pedirte tarjetas de regalo, criptomonedas o transferencias. Si alguien lo hace, cuelga y llama tú directamente al número oficial.",
+   "startMs": 502759,
+   "endMs": 519296
+  },
+  {
+   "escena": 10,
+   "text": "Resumiendo: el aumento es del 3,6 %, pero lo que de verdad te llega depende de Medicare. Y lo que más dinero te puede ahorrar este año es comparar tu plan antes del 7 de diciembre.",
+   "startMs": 519796,
+   "endMs": 533562
+  },
+  {
+   "escena": 10,
+   "text": "Y una pregunta para ti: ¿cuánto vas a cobrar tú en 2027? Haz la cuenta con tu cifra y déjala en los comentarios, o cuéntame qué duda tienes sobre Medicare. Leo todos los comentarios, y las preguntas más repetidas se convierten en vídeos.",
+   "startMs": 533912,
+   "endMs": 550330
+  },
+  {
+   "escena": 10,
+   "text": "Si este vídeo te ayudó, compártelo con tus padres, tus tíos o esa vecina que siempre pregunta por estas cosas. Puede ahorrarles dinero de verdad.",
+   "startMs": 550680,
+   "endMs": 559948
+  },
+  {
+   "escena": 10,
+   "text": "Suscríbete y activa la campanita: la próxima semana te explico a qué edad conviene pedir el Seguro Social, con números.",
+   "startMs": 560298,
+   "endMs": 568622
+  },
+  {
+   "escena": 10,
+   "text": "Y recuerda: esto es información educativa, no asesoría financiera. Para tu caso concreto, consulta al Seguro Social o a un profesional. Nos vemos en el próximo vídeo.",
+   "startMs": 568972,
+   "endMs": 580952
+  }
+ ]
+}

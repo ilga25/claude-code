@@ -1,0 +1,9 @@
+node_modules/
+out/
+.whisper/
+public/voz.wav
+public/musica.mp3
+public/sfx/
+voz.mp3
+musica.mp3
+sfx/

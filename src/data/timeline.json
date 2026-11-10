@@ -1,0 +1,71 @@
+{
+  "fps": 60,
+  "source": "estimate",
+  "scenes": [
+    {
+      "escena": 1,
+      "title": "Gancho",
+      "inicioFrame": 0,
+      "finFrame": 2233
+    },
+    {
+      "escena": 2,
+      "title": "Presentación",
+      "inicioFrame": 2233,
+      "finFrame": 3438
+    },
+    {
+      "escena": 3,
+      "title": "¿Qué es el COLA?",
+      "inicioFrame": 3438,
+      "finFrame": 8369
+    },
+    {
+      "escena": 4,
+      "title": "La cifra de 2027: 3,6 %",
+      "inicioFrame": 8369,
+      "finFrame": 11921
+    },
+    {
+      "escena": 5,
+      "title": "Lo que Medicare te quita",
+      "inicioFrame": 11921,
+      "finFrame": 17423
+    },
+    {
+      "escena": 6,
+      "title": "Parte D y Medicare Advantage: el 7 de diciembre",
+      "inicioFrame": 17423,
+      "finFrame": 22116
+    },
+    {
+      "escena": 7,
+      "title": "Si todavía trabajas",
+      "inicioFrame": 22116,
+      "finFrame": 25190
+    },
+    {
+      "escena": 8,
+      "title": "¿Se va a acabar el Seguro Social?",
+      "inicioFrame": 25190,
+      "finFrame": 28926
+    },
+    {
+      "escena": 9,
+      "title": "Fechas clave y cuidado con las estafas",
+      "inicioFrame": 28926,
+      "finFrame": 31170
+    },
+    {
+      "escena": 10,
+      "title": "Cierre",
+      "inicioFrame": 31170,
+      "finFrame": 34909
+    }
+  ],
+  "endScreen": {
+    "inicioFrame": 34909,
+    "finFrame": 36109
+  },
+  "durationInFrames": 36109
+}
