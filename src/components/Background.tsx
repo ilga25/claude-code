@@ -20,8 +20,8 @@ const SPEED = [0.12, 0.3, 0.6]; // parallax: far → near
 
 /**
  * Navy radial gradient + slow parallax shapes (soft, defocused) + vignette.
- * Film grain is added at encode time (ffmpeg `noise`, see remotion.config.ts): true per-pixel
- * grain at 4K without the cost of an SVG turbulence layer in every frame.
+ * (No film-grain layer: at 4K an feTurbulence overlay nearly doubled render time, and an
+ * ffmpeg `noise` pass ran at ~1 fps — YouTube's compression removes 4 % grain anyway.)
  * `drift` lets a scene push the parallax (e.g. while the virtual camera pans).
  */
 export const Background: React.FC<{drift?: number; tint?: string}> = ({drift = 0, tint}) => {

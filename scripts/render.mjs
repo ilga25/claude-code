@@ -8,7 +8,7 @@ import {execFileSync} from 'node:child_process';
 const args = process.argv.slice(2);
 const HD = args.includes('--hd');
 const MASTER = args.includes('--master');
-const CHUNK = 3000; // frames per chunk (50 s of video)
+const CHUNK = 1500; // frames per chunk (25 s of video, ~9 min to render at 4K)
 const timeline = JSON.parse(fs.readFileSync('src/data/timeline.json', 'utf8'));
 const total = timeline.durationInFrames;
 const chrome = process.env.REMOTION_CHROME ? [`--browser-executable=${process.env.REMOTION_CHROME}`] : [];
